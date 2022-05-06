@@ -1,0 +1,74 @@
+- name: Dapp Craft
+  link: https://dapp-craft.com/
+  description: Dapp craft helped brands like Guo Pei and Mercedes.
+  tags:
+    - 3D
+    - Wearables
+    - Architect
+- name: Low Poly
+  link: https://voxelarchitects.com/
+  description: Low Poly helped brands like Fred Segal.
+  tags:
+    - 3D
+    - Wearables
+- name: Voxel Architects
+  link: https://voxelarchitects.com/
+  description: Voxel Architects helped brands like Jacob&Co and Auroboros.
+  tags:
+    - 3D
+    - Wearables
+    - Architect
+- name: Vegas City
+  link: https://www.vegascity.org/
+  description: Vegas City helped brands like D&G.
+  tags:
+    - District
+    - Studio
+    - Full Production
+- name: Malloy
+  description: Malloy helped brands like D-Cave.
+  tags:
+    - Individiual
+    - Wearable
+- name: Kollektiff
+  link: https://www.vegascity.org/
+  description: Catwalks for Perry Ellis/ Placebo / Faith 
+  tags:
+    - 3D
+- name: Last Slice
+  link: https://lastslice.org/
+  description: Last Slice did support on the Fashion Districts (TBC).
+  tags:
+    - 3D
+    - Full Production
+- name: James Guard
+  description: James Guard helped brands like The Fabricant / Garret Leight.
+  tags:
+    - Individiual
+    - Wearable
+- name: Quorra
+  description: Quorra helped brands like Chufy.
+  tags:
+    - 3D
+- name: Fabeeo Breen
+  link: https://www.fabeeobreen.com/
+  description: Fabeeo Breen helped is a Curator Committee.
+  tags:
+    - Individiual
+    - Wearable
+- name: XR Couture
+  link: https://www.vegascity.org/
+  description: XR Couture helped brands like Elie Saab.
+  tags:
+    - 3D
+    - Brands
+- name: GIRA Studio
+  description: GIRA Studio helped brands like Faith Connexion / Nicholas Kirkwood.
+  tags:
+    - Wearable
+    - Architect
+- name: MetaSkins
+  description: MetaSkins helped brands like Placebo/ Artisant/ Etro.
+  tags:
+    - Wearable
+    - Architect

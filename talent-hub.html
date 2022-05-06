@@ -8,6 +8,19 @@
       {{ content | markdownify }}
     </div>
 
+    {% for partner in site.data.partners %}
+      <div style="border: 1px solid #C4C4C4;border-radius: 1rem;padding: 1rem;margin-bottom:1rem;">
+        <h3 style="margin:0;">{{ partner.name }}</h3>
+        <div class="tags">
+          {% for tag in partner.tags %}
+          <span class="tag-{{ tag }}">{{ tag }}</span>
+          {% endfor %}
+        </div>
+        <p>{{ partner.description }}</p>
+        <a href="https://dapp-craft.com/">View site</a>
+      </div>
+    {% endfor %}
+
     {% include newsletter.html %}
 
     {%- comment -%} {% include override-color.html accent_color="#ff2d55" %} {%- endcomment -%}
