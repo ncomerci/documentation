@@ -1,74 +1,111 @@
 - name: Dapp Craft
-  link: https://dapp-craft.com/
-  description: Dapp craft helped brands like Guo Pei and Mercedes.
+  website: https://dapp-craft.com/
+  discord: https://discord.gg/S4ZhNM4
+  twitter: https://twitter.com/dapp_craft
+  youtube: https://www.youtube.com/channel/UCIibGAk2q7tJWWiyWrOhYGw
+  telegram: https://t.me/dappcraft
+  email: hello@dapp-craft.com
+  image: /images/partners/dapp-craft.png
+  description: Dapp Craft have many different projects in our portfolio. Wearables. Games. Events. Emotes. Scenes and other. Dapp Craft has helped brands like Guo Pei and Mercedes.
   tags:
     - 3D
     - Wearables
     - Architect
 - name: Low Poly
-  link: https://voxelarchitects.com/
-  description: Low Poly helped brands like Fred Segal.
+  website: https://www.lowpolymodelsworld.com/
+  discord: https://discordapp.com/users/584069387439570964/
+  twitter: https://twitter.com/KJWalker3D
+  youtube: https://www.youtube.com/c/KatherineJoelleWalker/videos
+  email: lowpolymodelsworld@gmail.com
+  image: /images/partners/low-poly.webp
+  description: The Low Poly Models team specialises in developing high quality custom 3D assets in the smallest possible data packages. Making graphics load faster and improving the overall experience for everyone - ideal for blockchain and open-source metaverses like Decentraland. Low Poly helped brands like Fred Segal.
   tags:
     - 3D
     - Wearables
 - name: Voxel Architects
-  link: https://voxelarchitects.com/
-  description: Voxel Architects helped brands like Jacob&Co and Auroboros.
+  website: https://voxelarchitects.com/
+  twitter: https://twitter.com/VoxelArchitects
+  instagram: https://www.instagram.com/voxel.architects/
+  image: /images/partners/voxel-architects.jpeg
+  description: We are a team of artists passionate about virtual art, virtual reality, and blockchain technology. At base, we are professional designers and architects, mostly operating in the automotive sector. We decided to take a step forward, look up to the future and invest our time and resources in developing a visually pleasing and functional virtual world for everyone to use and enjoy. We are committed to always deliver our best product, in time and with no compromises. We love to take on challenging projects and customer satisfaction is our top priority. No matter the size and the difficulty of the project, Voxel Architects will build it. Voxel Architects helped brands like Jacob&Co and Auroboros.
   tags:
     - 3D
     - Wearables
     - Architect
 - name: Vegas City
-  link: https://www.vegascity.org/
-  description: Vegas City helped brands like D&G.
+  website: https://www.vegascity.org/
+  facebook: https://www.facebook.com/vegascityvr/
+  twitter: https://twitter.com/VegasCityDCL
+  instagram: https://www.instagram.com/vegas_city_dcl/
+  discord: https://discord.gg/aXS3CDatbD
+  image: /images/partners/vegas-city.png
+  description: Vegas City is the largest gaming district in Decentraland. It presents prime real estate, exciting venues and in-world assets. Decentraland is a platform where individuals and businesses can create 3D content and applications which can be monetized and viewed in virtual reality. Anticipating that humans will spend a significant amount of time in the virtual world in the future, we believe Vegas City has the makings to become the next big social platform. Vegas City helped brands like D&G.
   tags:
     - District
-    - Studio
     - Full Production
 - name: Malloy
-  description: Malloy helped brands like D-Cave.
+  twitter: https://twitter.com/ahoimalloy?lang=es
+  image: /images/partners/malloy.png
+  description: Decentraland Wearables NFT Artist, and  Wearables Submission Curator. Malloy has helped brands like D-Cave.
   tags:
-    - Individiual
-    - Wearable
+    - Individual
+    - Wearables
 - name: Kollektiff
-  link: https://www.vegascity.org/
-  description: Catwalks for Perry Ellis/ Placebo / Faith 
+  website: https://kollectiff.com/
+  email: contact@kollectiff.com
+  image: /images/partners/kollectiff.png
+  description: Kollektiff designed catwalks for Perry Ellis, Placebo, Faith. 
   tags:
     - 3D
 - name: Last Slice
-  link: https://lastslice.org/
-  description: Last Slice did support on the Fashion Districts (TBC).
+  website: https://lastslice.org/
+  discord: https://discord.com/invite/38NzDVRzR8
+  twitter: https://twitter.com/lastsliceco
+  email: info@lastslice.org
+  image: /images/partners/last-slice.png
+  description: Last Slice is a full-service development studio, from private scene building to custom brand solutions. Last Slice did support on the Fashion Districts (TBC).
   tags:
     - 3D
     - Full Production
 - name: James Guard
-  description: James Guard helped brands like The Fabricant / Garret Leight.
+  website: https://www.jamesguardstudios.com/
+  youtube: https://www.youtube.com/user/esjamesG
+  twitter: https://twitter.com/DuckiezKing
+  discord: https://discord.gg/JZXdF52srM
+  email: JGuard@JamesGuardStudios.com
+  image: /images/partners/james-guard.webp
+  description: James Guard is a professional in animantion, games, film and metaverse. He  helped brands like The Fabricant and Garret Leight.
   tags:
-    - Individiual
-    - Wearable
-- name: Quorra
-  description: Quorra helped brands like Chufy.
-  tags:
-    - 3D
+    - Individual
+    - Wearables
 - name: Fabeeo Breen
-  link: https://www.fabeeobreen.com/
-  description: Fabeeo Breen helped is a Curator Committee.
+  website: https://www.fabeeobreen.com/
+  twitter: https://twitter.com/FabeeoBreen
+  instagram: https://www.instagram.com/fabeeobreen
+  discord: https://discord.gg/ErKTmXQz6H
+  facebook: https://www.facebook.com/fabeeobreen
+  image: /images/partners/fabeeo-breen.jpeg
+  description: Fabeeo Breen provides services in 3D animation and dynamic simulations, NFT collections, virtual world showrooms and avatar development.
   tags:
-    - Individiual
-    - Wearable
+    - Individual
+    - Wearables
 - name: XR Couture
-  link: https://www.vegascity.org/
-  description: XR Couture helped brands like Elie Saab.
+  website: https://xrcouture.com/
+  facebook: https://www.facebook.com/xr.couture
+  twitter: https://twitter.com/XRCouture
+  instagram: https://www.instagram.com/xr.couture/
+  linkedin: https://www.linkedin.com/company/xrcouture
+  image: /images/partners/xrcouture.webp
+  description: XR Couture is the world's first international digital fashion collection platform. They are welcoming all interested brands, designers, stylists, fashion bloggers, artists, and 3D creators to contact them for an exciting collaboration. No physical materials, factories, or staff are required—just a computer, a sprinkle of passion and drive, and some time. If you're a physical brand or a designer and not so sure how to create digital items, we can help with guidance and assist in making your designs digital. XR Couture helped brands like Elie Saab.
   tags:
     - 3D
     - Brands
-- name: GIRA Studio
-  description: GIRA Studio helped brands like Faith Connexion / Nicholas Kirkwood.
-  tags:
-    - Wearable
-    - Architect
 - name: MetaSkins
-  description: MetaSkins helped brands like Placebo/ Artisant/ Etro.
+  website: https://metaskins.com/
+  linkedin: https://www.linkedin.com/company/metaskins/
+  email: camilaw@metaskins.com
+  image: /images/partners/metaskins.png
+  description: MetaSkins specialize in personalized digital wearables, custom infrastructure built on metaverse parcels and rand tailored metaverse events. MetaSkins helped brands like Placebo, Artisant and Etro.
   tags:
-    - Wearable
+    - Wearables
     - Architect

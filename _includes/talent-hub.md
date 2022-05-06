@@ -6,4 +6,4 @@ Meet our Verified Partners: individuals and organizations that help bring brands
 
 We want to map the entire creator's economy, if your project is not on this list and you have experience building content for Decentraland, please fill out this form.
 
-# Studios
+# Verified Partners
