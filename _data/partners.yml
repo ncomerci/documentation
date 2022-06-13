@@ -1,4 +1,5 @@
 - name: Dapp Craft
+  partnerId: 1
   website: https://dapp-craft.com/
   discord: https://discord.gg/S4ZhNM4
   twitter: https://twitter.com/dapp_craft
@@ -12,6 +13,7 @@
     - Wearables
     - Architect
 - name: Low Poly
+  partnerId: 2
   website: https://www.lowpolymodelsworld.com/
   discord: https://discordapp.com/users/584069387439570964/
   twitter: https://twitter.com/KJWalker3D
@@ -23,6 +25,7 @@
     - 3D
     - Wearables
 - name: Voxel Architects
+  partnerId: 3
   website: https://voxelarchitects.com/
   twitter: https://twitter.com/VoxelArchitects
   instagram: https://www.instagram.com/voxel.architects/
@@ -33,6 +36,7 @@
     - Wearables
     - Architect
 - name: Vegas City
+  partnerId: 4
   website: https://www.vegascity.org/
   facebook: https://www.facebook.com/vegascityvr/
   twitter: https://twitter.com/VegasCityDCL
@@ -44,6 +48,7 @@
     - District
     - Full Production
 - name: Malloy
+  partnerId: 5
   twitter: https://twitter.com/ahoimalloy?lang=es
   image: /images/partners/malloy.png
   description: Decentraland Wearables NFT Artist, and  Wearables Submission Curator. Malloy has helped brands like D-Cave.
@@ -51,6 +56,7 @@
     - Individual
     - Wearables
 - name: Kollektiff
+  partnerId: 6
   website: https://kollectiff.com/
   email: contact@kollectiff.com
   image: /images/partners/kollectiff.png
@@ -58,6 +64,7 @@
   tags:
     - 3D
 - name: Last Slice
+  partnerId: 7
   website: https://lastslice.org/
   discord: https://discord.com/invite/38NzDVRzR8
   twitter: https://twitter.com/lastsliceco
@@ -68,6 +75,7 @@
     - 3D
     - Full Production
 - name: James Guard
+  partnerId: 8
   website: https://www.jamesguardstudios.com/
   youtube: https://www.youtube.com/user/esjamesG
   twitter: https://twitter.com/DuckiezKing
@@ -79,6 +87,7 @@
     - Individual
     - Wearables
 - name: Fabeeo Breen
+  partnerId: 9
   website: https://www.fabeeobreen.com/
   twitter: https://twitter.com/FabeeoBreen
   instagram: https://www.instagram.com/fabeeobreen
@@ -90,6 +99,7 @@
     - Individual
     - Wearables
 - name: XR Couture
+  partnerId: 10
   website: https://xrcouture.com/
   facebook: https://www.facebook.com/xr.couture
   twitter: https://twitter.com/XRCouture
@@ -101,6 +111,7 @@
     - 3D
     - Brands
 - name: MetaSkins
+  partnerId: 11
   website: https://metaskins.com/
   linkedin: https://www.linkedin.com/company/metaskins/
   email: camilaw@metaskins.com

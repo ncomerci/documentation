@@ -36,3 +36,80 @@
   background-color: #E2ECFC;
   color: #4888EE;
 }
+
+.providerContainer {
+  border: 1px solid #CCCCCD;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom:1rem; 
+  min-height: 12rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.providerImage {
+  width: 10rem;
+  height: 10rem;
+  float: left;
+  margin-right: 1rem;
+  border-radius: 1rem;
+}
+
+.providerContainer .meta {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: .5em;
+}
+.providerContainer .meta .tags {
+  margin-right: 1rem;
+}
+.providerContainer .meta .social-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  margin-right: 8px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.providerContainer .textContainer {
+  flex: 1;
+}
+.providerContainer .textContainer p {
+  text-overflow:ellipsis;
+  overflow:hidden;
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  box-orient: vertical;
+  white-space: normal;
+  margin-bottom: .5em;
+}
+.providerContainer .textContainer .read-more-state {
+  display: none;
+}
+.providerContainer .textContainer .read-more-state:checked ~ p {
+  text-overflow: normal;
+  display: block;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+  content: 'Show more';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'Show less';
+}
+
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  color: #FF2D55;
+  font-size: 1em;
+  font-weight: 500;
+}
