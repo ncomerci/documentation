@@ -113,3 +113,40 @@
   font-size: 1em;
   font-weight: 500;
 }
+
+@media only screen and (min-width: 501px) and (max-width: 640px) {
+  .providerContainer .textContainer p {
+    font-size: 15px;
+  }
+  .providerContainer .providerImage {
+    position: absolute;
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+  .providerContainer h3,
+  .providerContainer .meta {
+    padding-left: 4.5rem;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .providerContainer .textContainer p {
+    font-size: 15px;
+    letter-spacing: -0.3px;
+  }
+  .providerContainer .providerImage {
+    width: 4rem;
+    height: 4rem;
+    margin-bottom: .5rem;
+    box-shadow: 0px 1px 5px rgba(204, 204, 205, 1);
+    border-radius: 8px;
+  }
+  .providerContainer .meta .tags {
+    padding: .25rem 0;
+  }
+  .providerContainer {
+    flex-direction: column;
+  }
+  .providerContainer .meta {
+    flex-direction: column;
+  }
+}
