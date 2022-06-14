@@ -1,5 +1,6 @@
 - name: Dapp Craft
   partnerId: 1
+  default_link: https://dapp-craft.com/
   website: https://dapp-craft.com/
   discord: https://discord.gg/S4ZhNM4
   twitter: https://twitter.com/dapp_craft
@@ -14,6 +15,7 @@
     - Architect
 - name: Low Poly
   partnerId: 2
+  default_link: https://www.lowpolymodelsworld.com/
   website: https://www.lowpolymodelsworld.com/
   discord: https://discordapp.com/users/584069387439570964/
   twitter: https://twitter.com/KJWalker3D
@@ -26,6 +28,7 @@
     - Wearables
 - name: Voxel Architects
   partnerId: 3
+  default_link: https://voxelarchitects.com/
   website: https://voxelarchitects.com/
   twitter: https://twitter.com/VoxelArchitects
   instagram: https://www.instagram.com/voxel.architects/
@@ -37,6 +40,7 @@
     - Architect
 - name: Vegas City
   partnerId: 4
+  default_link: https://www.vegascity.org/
   website: https://www.vegascity.org/
   facebook: https://www.facebook.com/vegascityvr/
   twitter: https://twitter.com/VegasCityDCL
@@ -57,6 +61,7 @@
     - Wearables
 - name: Kollektiff
   partnerId: 6
+  default_link: https://kollectiff.com/
   website: https://kollectiff.com/
   email: contact@kollectiff.com
   image: /images/partners/kollectiff.png
@@ -65,6 +70,7 @@
     - 3D
 - name: Last Slice
   partnerId: 7
+  default_link: https://lastslice.org/
   website: https://lastslice.org/
   discord: https://discord.com/invite/38NzDVRzR8
   twitter: https://twitter.com/lastsliceco
@@ -76,6 +82,7 @@
     - Full Production
 - name: James Guard
   partnerId: 8
+  default_link: https://www.jamesguardstudios.com/
   website: https://www.jamesguardstudios.com/
   youtube: https://www.youtube.com/user/esjamesG
   twitter: https://twitter.com/DuckiezKing
@@ -88,6 +95,7 @@
     - Wearables
 - name: Fabeeo Breen
   partnerId: 9
+  default_link: https://www.fabeeobreen.com/
   website: https://www.fabeeobreen.com/
   twitter: https://twitter.com/FabeeoBreen
   instagram: https://www.instagram.com/fabeeobreen
@@ -100,6 +108,7 @@
     - Wearables
 - name: XR Couture
   partnerId: 10
+  default_link: https://xrcouture.com/
   website: https://xrcouture.com/
   facebook: https://www.facebook.com/xr.couture
   twitter: https://twitter.com/XRCouture
@@ -112,6 +121,7 @@
     - Brands
 - name: MetaSkins
   partnerId: 11
+  default_link: https://metaskins.com/
   website: https://metaskins.com/
   linkedin: https://www.linkedin.com/company/metaskins/
   email: camilaw@metaskins.com

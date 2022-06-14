@@ -55,6 +55,12 @@
   border-radius: 1rem;
 }
 
+.providerImage a {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
 .providerContainer .meta {
   display: flex;
   flex-direction: row;
