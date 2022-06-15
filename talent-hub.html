@@ -22,12 +22,14 @@
               {% endfor %}
             </div>
             <div class="links">
-              {% if partner.website %}<a href="{{ partner.website }}" title="website" class="social-icon icon-url">{% include social-icon.html icon="Website" %}</a>{% endif %}
-              {% if partner.email %}<a href="mailto:{{ partner.email }}" title="email" class="social-icon icon-email">{% include social-icon.html icon="Email" %}</a>{% endif %}
-              {% if partner.discord %}<a href="{{ partner.discord }}" title="discord" class="social-icon icon-discord">{% include social-icon.html icon="Discord" %}</a>{% endif %}
-              {% if partner.twitter %}<a href="{{ partner.twitter }}" title="twitter" class="social-icon icon-twitter">{% include social-icon.html icon="Twitter" %}</a>{% endif %}
-              {% if partner.instagram %}<a href="{{ partner.instagram }}" title="instagram" class="social-icon icon-instagram">{% include social-icon.html icon="Instagram" %}</a>{% endif %}
-              {% if partner.linkedin %}<a href="{{ partner.linkedin }}" title="linkedin" class="social-icon icon-linkedin">{% include social-icon.html icon="Linkedin" %}</a>{% endif %}
+              {% if partner.website %}<a href="{{ partner.website }}" title="website" class="social-icon">{% include social-icon.html icon="Website" %}</a>{% endif %}
+              {% if partner.email %}<a href="mailto:{{ partner.email }}" title="email" class="social-icon">{% include social-icon.html icon="Email" %}</a>{% endif %}
+              {% if partner.discord %}<a href="{{ partner.discord }}" title="discord" class="social-icon">{% include social-icon.html icon="Discord" %}</a>{% endif %}
+              {% if partner.twitter %}<a href="{{ partner.twitter }}" title="twitter" class="social-icon">{% include social-icon.html icon="Twitter" %}</a>{% endif %}
+              {% if partner.instagram %}<a href="{{ partner.instagram }}" title="instagram" class="social-icon">{% include social-icon.html icon="Instagram" %}</a>{% endif %}
+              {% if partner.linkedin %}<a href="{{ partner.linkedin }}" title="linkedin" class="social-icon">{% include social-icon.html icon="Linkedin" %}</a>{% endif %}
+              {% if partner.vimeo %}<a href="{{ partner.vimeo }}" title="vimeo" class="social-icon">{% include social-icon.html icon="Vimeo" %}</a>{% endif %}
+              {% if partner.soundcloud %}<a href="{{ partner.soundcloud }}" title="soundcloud" class="social-icon">{% include social-icon.html icon="Soundcloud" %}</a>{% endif %}
             </div>
           </div>
           <input type="checkbox" id="partner-{{ partner.partnerId }}" class="read-more-state" />

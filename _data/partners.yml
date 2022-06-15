@@ -130,3 +130,51 @@
   tags:
     - Wearables
     - Architect
+- name: Polygonal Mind
+  partnerId: 12
+  default_link: https://www.polygonalmind.com/
+  website: https://www.polygonalmind.com/
+  discord: https://discord.com/invite/m2cAVSn
+  twitter: https://twitter.com/polygonalmind
+  instagram: https://www.instagram.com/polygonalmind/
+  linkedin: https://www.linkedin.com/company/polygonal-mind/
+  email: info@polygonalmind.com
+  image: /images/partners/polygonal-mind.png
+  description: Building Decentraland since 2019. Our dedicated Decentraland team imagines, designs and develops experiences, games and Crypto-Art galleries. Over 35 projects and more than 3k LANDs constructed in the Decentraland Metaverse.
+  tags:
+    - Wearables
+    - Architect
+- name: Sugar Club
+  partnerId: 13
+  default_link: https://twitter.com/SugarClub_
+  twitter: https://twitter.com/SugarClub_
+  discord: http://discord.gg/46RKBu8
+  instagram: https://www.instagram.com/sugarclub.eth/
+  image: /images/partners/sugar-club.jpeg
+  description: Digital designer. Virtual reality. Metaverse explorer.
+  tags:
+    - Wearables
+- name: Sparkles Studio
+  partnerId: 13
+  default_link: https://www.sparkles.studio/
+  website: https://www.sparkles.studio/
+  vimeo: https://vimeo.com/studiosparkles
+  email: sparklesstudio@protonmail.com
+  twitter: https://twitter.com/studio_sparkles
+  image: /images/partners/sparkles-studio.jpeg
+  description: Boutique Animation Studio making digital realms sparkle. We produce both 2d and 3d animation. Storyboards and animatics for any pitch or project. Avatars that look good in any metaverse!
+  tags:
+    - Wearables
+- name: Mordy
+  partnerId: 14
+  default_link: https://www.mordi.net/
+  website: https://www.mordi.net/
+  email: contact@mordi.net
+  twitter: https://twitter.com/Mordi90
+  soundcloud: https://soundcloud.com/mordi-1
+  youtube: https://www.youtube.com/user/idroM90
+  image: /images/partners/mordi.png
+  description: Composer and Sound Designer. I'm an audio specialist with 14 years of experience composing music, and 7 years of recording and designing sound effects.
+  tags:
+    - Sound
+
