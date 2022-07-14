@@ -17,7 +17,7 @@ This registry is lead by an independant team supported by [Decentraland's DAO](h
 
 * **Event Production**: A company of producers that can help you set up an event in a DCL venue. They can help find a venue for your needs, customizing the scene, ticketing the event, doing a live-stream and more.
 
-* **Full Cycle Production**: Studios that will guide you through the holde process, from ideation to the launch of your idea. They will help you create an activation campaing right for your brand and audience.
+* **Full Production**: Studios that will guide you through the holde process, from ideation to the launch of your idea. They will help you create an activation campaing right for your brand and audience.
 
 # Verified Partners
 
