@@ -9,15 +9,15 @@ This registry is lead by an independant team supported by [Decentraland's DAO](h
 
 # Provided Services
 
-* **Wearable Creation**: 3D Modeling skills to produce a wearable under the acceptance criteria of Decentraland's DAO Curators Committee.
+* **Wearable Design**: 3D Modeling skills to produce a wearable under the acceptance criteria of Decentraland's DAO Curators Committee. Such us hats, t-shirts and full-body skins.
 
-* **Architecture**: 3D Modeling skills to create objects and spaces ready to be placed in your Decentraland scene.
-
-* **SDK Development**: Programming skills related to making your scene interactive. This includes opening links in a new tab, showing live data in the scene, creating game mechanics and blockchain interactions.
+* **Architecture**: 3D Modeling and SDK Development skills to create objects and spaces ready to be placed in your Decentraland scene. Such as art galeries and parkour courses.
 
 * **Event Production**: A company of producers that can help you set up an event in a DCL venue. They can help find a venue for your needs, customizing the scene, ticketing the event, doing a live-stream and more.
 
-* **Full Production**: Studios that will guide you through the holde process, from ideation to the launch of your idea. They will help you create an activation campaing right for your brand and audience.
+* **Full Production**: Studios that will guide you through the whole process, from sketching ideas to launching your campaing to your audience.
+
+* **Land Rental**: Land owners offering a place to locate your experience in Decentraland's Genesis City.
 
 # Verified Partners
 
