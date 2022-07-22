@@ -13,7 +13,7 @@
     - 3D
     - Wearables
     - Architect
-- name: Low Poly
+- name: Low Poly Models
   partnerId: 2
   default_link: https://www.lowpolymodelsworld.com/
   website: https://www.lowpolymodelsworld.com/
@@ -26,6 +26,7 @@
   tags:
     - 3D
     - Wearables
+    - Architect
 - name: Voxel Architects
   partnerId: 3
   default_link: https://voxelarchitects.com/
