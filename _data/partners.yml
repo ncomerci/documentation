@@ -10,7 +10,6 @@
   image: /images/partners/dapp-craft.png
   description: Dapp Craft have many different projects in our portfolio. Wearables. Games. Events. Emotes. Scenes and other. Dapp Craft has helped brands like Guo Pei and Mercedes.
   tags:
-    - 3D
     - Wearables
     - Architect
 - name: Low Poly Models
@@ -23,10 +22,18 @@
   email: lowpolymodelsworld@gmail.com
   image: /images/partners/low-poly.webp
   description: The Low Poly Models team specialises in developing high quality custom 3D assets in the smallest possible data packages. Making graphics load faster and improving the overall experience for everyone - ideal for blockchain and open-source metaverses like Decentraland. Low Poly helped brands like Fred Segal.
+  location: Spain
+  languages:
+    - English
+    - Spanish
+  payments:
+    - Crypto
+    - Wire
+    - Paypal
   tags:
-    - 3D
     - Wearables
     - Architect
+    - Full Production
 - name: Voxel Architects
   partnerId: 3
   default_link: https://voxelarchitects.com/
@@ -35,10 +42,19 @@
   instagram: https://www.instagram.com/voxel.architects/
   image: /images/partners/voxel-architects.jpeg
   description: We are a team of artists passionate about virtual art, virtual reality, and blockchain technology. At base, we are professional designers and architects, mostly operating in the automotive sector. We decided to take a step forward, look up to the future and invest our time and resources in developing a visually pleasing and functional virtual world for everyone to use and enjoy. We are committed to always deliver our best product, in time and with no compromises. We love to take on challenging projects and customer satisfaction is our top priority. No matter the size and the difficulty of the project, Voxel Architects will build it. Voxel Architects helped brands like Jacob&Co and Auroboros.
+  location: Portugal
+  languages:
+    - English
+    - Spanish
+    - Rumanian
+  payments:
+    - Crypto
+    - Wire
   tags:
-    - 3D
     - Wearables
     - Architect
+    - Events
+    - Full Production
 - name: Vegas City
   partnerId: 4
   default_link: https://www.vegascity.org/
@@ -50,16 +66,26 @@
   image: /images/partners/vegas-city.png
   description: Vegas City is the largest gaming district in Decentraland. It presents prime real estate, exciting venues and in-world assets. Decentraland is a platform where individuals and businesses can create 3D content and applications which can be monetized and viewed in virtual reality. Anticipating that humans will spend a significant amount of time in the virtual world in the future, we believe Vegas City has the makings to become the next big social platform. Vegas City helped brands like D&G.
   tags:
-    - District
+    - Wearables
+    - Architect
+    - Events
     - Full Production
 - name: Malloy
   partnerId: 5
   twitter: https://twitter.com/ahoimalloy?lang=es
   image: /images/partners/malloy.png
   description: Decentraland Wearables NFT Artist, and  Wearables Submission Curator. Malloy has helped brands like D-Cave.
+  location: United Kindom
+  languages:
+    - English
+  payments:
+    - Crypto
+    - Wire
+    - Card
+    - Paypal
   tags:
-    - Individual
     - Wearables
+    - Events
 - name: Kollektiff
   partnerId: 6
   default_link: https://kollectiff.com/
@@ -117,9 +143,17 @@
   linkedin: https://www.linkedin.com/company/xrcouture
   image: /images/partners/xrcouture.webp
   description: XR Couture is the world's first international digital fashion collection platform. They are welcoming all interested brands, designers, stylists, fashion bloggers, artists, and 3D creators to contact them for an exciting collaboration. No physical materials, factories, or staff are required—just a computer, a sprinkle of passion and drive, and some time. If you're a physical brand or a designer and not so sure how to create digital items, we can help with guidance and assist in making your designs digital. XR Couture helped brands like Elie Saab.
+  location: India
+  langague:
+    - English
+  payments:
+    - Crypto
+    - Wire
+    - Card
+    - Paypal
   tags:
-    - 3D
-    - Brands
+    - Wearables
+    - Architect
 - name: MetaSkins
   partnerId: 11
   default_link: https://metaskins.com/
