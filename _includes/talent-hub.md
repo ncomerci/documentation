@@ -15,7 +15,7 @@ This registry is lead by an independant team supported by [Decentraland's DAO](h
 
 * **Event Production**: A company of producers that can help you set up an event in a DCL venue. They can help find a venue for your needs, customizing the scene, ticketing the event, doing a live-stream and more.
 
-* **Full Production**: Studios that will guide you through the whole process, from sketching ideas to launching your campaing to your audience.
+* **Full Production**: Studios that will guide you through the whole process, from sketching ideas to launching your campaign to your audience.
 
 * **Land Rental**: Land owners offering a place to locate your experience in Decentraland's Genesis City.
 
