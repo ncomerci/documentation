@@ -220,6 +220,7 @@
   website: https://terrazero.com/
   email: hello@terrazero.com
   twitter: https://twitter.com/terrazerotech
+  linkedin: https://www.linkedin.com/company/77088789
   image: /images/partners/terrazero.png
   description: TerraZero is the premier metaverse studio and technologies firm across multiple metaverse worlds, with numerous 50-100 billion market cap clients active in Decentraland. 
   tags:
@@ -249,4 +250,21 @@
   tags:
      - Architect
      - Events
+ - name: MixedBag
+  partnerId: 19
+  default_link: http://www.mixedbag.it
+  website: http://www.mixedbag.it
+  email: metaverse@mixedbag.it
+  twitter: https://twitter.com/MixedBagGames
+  linkedin: https://www.linkedin.com/company/mixedbag-srl/
+  youtube: https://www.youtube.com/user/MixedBagChannel
+  image: /images/partners/mixed-bag.png
+  description: MixedBag is an award winning video game studio focused on the creation and development of new and original games using the latest technologies in innovative ways.
+We’ve developed and successfully launched a wide range of games on all available platforms, from console to PC and mobile. Our latest game, the Apple Arcade exclusive Secret Oops!, uses Augmented Reality to offer a never before seen multiplayer collaborative experience.
+We now offer an extensive range of metaverse development services, using our knowledge to offer our clients the most stunning and interactive lands possible.
+  tags:
+    - Wearables
+    - Architect
+    - Events 
+    - Full Production
    
