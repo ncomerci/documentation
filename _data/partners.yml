@@ -190,7 +190,7 @@
   tags:
     - Wearables
 - name: Sparkles Studio
-  partnerId: 13
+  partnerId: 14
   default_link: https://www.sparkles.studio/
   website: https://www.sparkles.studio/
   vimeo: https://vimeo.com/studiosparkles
@@ -200,3 +200,53 @@
   description: Boutique Animation Studio making digital realms sparkle. We produce both 2d and 3d animation. Storyboards and animatics for any pitch or project. Avatars that look good in any metaverse!
   tags:
     - Wearables
+- name: Metakey
+  partnerId: 15
+  default_link: https://www.themetakey.com/
+  website: https://www.themetakey.com/
+  email: matty.s@themetakey.com
+  twitter: https://twitter.com/themetakey
+  image: /images/partners/metakey.png
+  description: We Activate brands in the Metevarse and connect them to a web3 native community.
+  tags:
+    - Wearables
+    - Architect
+    - Events 
+    - Land Rental
+    - Full Production
+- name: TerraZero Technologies
+  partnerId: 16
+  default_link: https://terrazero.com/
+  website: https://terrazero.com/
+  email: hello@terrazero.com
+  twitter: https://twitter.com/terrazerotech
+  image: /images/partners/terrazero.png
+  description: TerraZero is the premier metaverse studio and technologies firm across multiple metaverse worlds, with numerous 50-100 billion market cap clients active in Decentraland. 
+  tags:
+    - Wearables
+    - Architect
+    - Events 
+    - Land Rental
+    - Full Production
+- name: Kalt
+  partnerId: 17
+  default_link: mailto:zkarik@gmail.com
+  website: 
+  email: zkarik@gmail.com
+  twitter: 
+  image: /images/partners/kalt-creative.png
+  description: Kalt Creative
+  tags:
+    - Wearables
+- name: ART|DAI
+  partnerId: 18
+  default_link: https://artordai.xyz
+  website: https://artordai.xyz
+  email: blockbakestudios@gmail.com
+  twitter: 
+  image: /images/partners/art|dai.png
+  description: We create metaverse experiences/games
+  tags:
+     - Architect
+     - Events
+   
