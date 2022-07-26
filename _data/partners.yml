@@ -184,11 +184,12 @@
     - Architect
 - name: Sugar Club
   partnerId: 13
-  default_link: https://twitter.com/SugarClub_
+  default_link: mailto:sugarclub@protonmail.com
+  email: sugarclub@protonmail.com
   twitter: https://twitter.com/SugarClub_
   discord: http://discord.gg/46RKBu8
   instagram: https://www.instagram.com/sugarclub.eth/
-  image: /images/partners/sugar-club.jpeg
+  image: /images/partners/sugar-club.png
   description: Digital designer. Virtual reality. Metaverse explorer.
   tags:
     - Wearables
