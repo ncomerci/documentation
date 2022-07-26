@@ -138,12 +138,14 @@
   partnerId: 10
   default_link: https://xrcouture.com/
   website: https://xrcouture.com/
+  email: hello@xrcouture.com
   facebook: https://www.facebook.com/xr.couture
   twitter: https://twitter.com/XRCouture
   instagram: https://www.instagram.com/xr.couture/
+  discord: https://discord.com/invite/SReuhkyBcq
   linkedin: https://www.linkedin.com/company/xrcouture
   image: /images/partners/xrcouture.webp
-  description: XR Couture is the world's first international digital fashion collection platform. They are welcoming all interested brands, designers, stylists, fashion bloggers, artists, and 3D creators to contact them for an exciting collaboration. No physical materials, factories, or staff are required—just a computer, a sprinkle of passion and drive, and some time. If you're a physical brand or a designer and not so sure how to create digital items, we can help with guidance and assist in making your designs digital. XR Couture helped brands like Elie Saab.
+  description: XR Couture is a leading digital fashion platform that enables brands to enter the metaverse and enables users to purchase and experience limited edition collectibles in the digital world. Bespoke solutions focusing on web3. We create digital assets and suggest marketing and collaboration partners to launch various metaverse assets including NFTs.
   location: India
   langague:
     - English
@@ -154,7 +156,6 @@
     - Paypal
   tags:
     - Wearables
-    - Architect
 - name: MetaSkins
   partnerId: 11
   default_link: https://metaskins.com/
