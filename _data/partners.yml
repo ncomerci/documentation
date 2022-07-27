@@ -290,7 +290,7 @@
     - Events 
     - Full Production
 - name: Cominted Labs
-  partnerId: 20
+  partnerId: 21
   default_link: https://comintedlabs.io/
   website: https://comintedlabs.io/
   email: info@comintedlabs.io
