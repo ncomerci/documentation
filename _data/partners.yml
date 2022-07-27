@@ -287,4 +287,18 @@
     - Architect
     - Events 
     - Full Production
+- name: Cominted Labs
+  partnerId: 20
+  default_link: https://comintedlabs.io/
+  website: https://comintedlabs.io/
+  email: info@comintedlabs.io
+  twitter: https://twitter.com/Comintedlabs
+  linkedin: https://www.linkedin.com/company/cominted-labs
+  image: /images/partners/cominted-labs.png
+  description: Cominted Labs is a metaverse studio building experiences in Decentraland. We are your partner from strategy to execution. Our world-class team of experts, designers, and developers will bring your vision to life in the metaverse!
+  tags:
+    - Wearables
+    - Architect
+    - Events 
+    - Full Production
    
