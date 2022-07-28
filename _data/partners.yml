@@ -318,4 +318,17 @@
     - Wearables
     - Architect
     - Full Production
+- name: Filmrare
+  partnerId: 23
+  default_link: https://www.filmrare.com/
+  website: https://www.filmrare.com/
+  email: rk@filmrare.com
+  twitter: https://twitter.com/filmrareNFT
+  linkedin: https://www.linkedin.com/company/filmrare/
+  discord: Natamai#2802
+  phone: +91-7477211984
+  image: /images/partners/filmrare.png
+  description: Filmrare is Decentraland´s longest-running cineplex and a venue with multiple screens and gallery floors backed by a DAO grant.
+  tags:
+    - Events
    
