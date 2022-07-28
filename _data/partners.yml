@@ -304,4 +304,18 @@
     - Architect
     - Events 
     - Full Production
+- name: Spaced DAO
+  partnerId: 22
+  default_link: https://spacesdao.xyz/
+  website: https://spacesdao.xyz/
+  email: admin@spacesdao.xyz
+  twitter: https://twitter.com/spacesdao
+  linkedin: https://www.linkedin.com/company/spacesdao/
+  phone: +34683585943
+  image: /images/partners/spaces.jpg
+  description: Spaces is a collective of architects, artists and developers dedicated to the design of tailored spaces and experiences for the metaverse. At the core of our design philosophy, we imagine and build the unbuildable, defying real life limitations, yet grounded with a seamless combination of organic and futuristic experiences.
+  tags:
+    - Wearables
+    - Architect
+    - Full Production
    
