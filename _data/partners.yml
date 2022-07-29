@@ -332,4 +332,21 @@
   description: Filmrare is Decentraland´s longest-running cineplex and a venue with multiple screens and gallery floors backed by a DAO grant.
   tags:
     - Events
-   
+- name: METAVERSE Architects
+  partnerId: 24
+  default_link: https://metaverse-architects.com/
+  website: https://metaverse-architects.com/
+  email: info@metaverse-architects.com
+  twitter: https://twitter.com/meta_archs
+  instagram: https://www.instagram.com/meta_archs/
+  linkedin: https://www.linkedin.com/company/metaarchs/
+  discord: Metaverse Architects
+  youtube: https://www.youtube.com/channel/UCSyJdSHKMt_mobKzdKRLCew
+  image: /images/partners/metaverse.architects.jpg
+  description: Metaverse Architects is a 3D Modelling & Game Development studio for the Metaverse. We design and develop for Decentraland and all Metaverse worlds. Bringing your brand to the Virtual World in a playful and engaging way.
+  tags:
+    - Wearables
+    - Architect
+    - Events 
+    - Full Production
+    - Land Rental
