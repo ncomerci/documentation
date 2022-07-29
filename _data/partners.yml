@@ -350,3 +350,21 @@
     - Events 
     - Full Production
     - Land Rental
+- name: Beatblox Studio & Music District
+  partnerId: 25
+  default_link: https://www.beatblox.org/
+  website: https://www.beatblox.org/
+  phone: +54 1124089592
+  email: info@beatblox.org
+  twitter: https://twitter.com/The_Beatblox
+  instagram: https://www.instagram.com/thebeatblox/
+  linkedin: https://www.linkedin.com/company/beatblox/
+  discord: https://discord.gg/NycNghvb
+  youtube: https://www.youtube.com/channel/UCo2dvKd4KcvURIVIesL9NZQ
+  image: /images/partners/beatblox.jpg
+  description: BeatBlox is a new musical landscape. A platform that allows artists and audiences to connect through the implementation of Blockchain Technology. It is a vehicle to explore new dynamics of interaction and commercialization empowering independent creativity.
+  tags:
+    - Architect
+    - Events 
+    - Full Production
+    - Land Rental
