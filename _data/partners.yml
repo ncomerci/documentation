@@ -384,4 +384,22 @@
     - Wearable
     - Architect
     - Full Production
+ - name: Doki
+  partnerId: 27
+  default_link: https://twitter.com/Doki3D
+  website: https://doki3d.com/
+  phone: +447367750305
+  email: admin@doki3d.com
+  instagram: https://Instagram.com/Doki3D
+  twitter: https://twitter.com/Doki3D
+  youtube: https://www.youtube.com/channel/UCNDNe8IvNeLoHXDER_fe-xg
+  sketchfab: https://sketchfab.com/Doki3D
+  image: /images/partners/doki.png
+  payment:
+    - Crypto
+    - PayPal
+    - Credit Card
+  description: 3D wearables artist and supposed metaverse hair stylist.
+  tags:
+    - Wearable
 
