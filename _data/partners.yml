@@ -381,7 +381,7 @@
   image: /images/partners/aviram.jpg
   description: Aviram studios provide Metaverse Development service to Brands and Organizations. We partner in the full production cycle right from conceptualization of environment and experience aligning with your the vision your customers and players. We come from decades of experience in 3D art. With our team of game designers, asset artist and game developers we are well placed to take on any project.
   tags:
-    - Wearable
+    - Wearables
     - Architect
     - Full Production
 - name: Doki
@@ -401,7 +401,7 @@
     - Credit Card
   description: 3D wearables artist and supposed metaverse hair stylist.
   tags:
-    - Wearable
+    - Wearables
 - name: Roustan Body Paint
   partnerId: 28
   default_link: https://twitter.com/RoustanNFT
@@ -418,6 +418,6 @@
     - PayPal
   description: "I'm a body painter. I paint on people and then photograph them. And I've brought this into the metaverse to share with the world!"
   tags:
-    - Wearable
+    - Wearables
     - Land Rental
 
