@@ -420,4 +420,19 @@
   tags:
     - Wearables
     - Land Rental
+- name: Miles
+  partnerId: 29
+  default_link: https://decentral.games
+  website: https://decentral.games
+  email: miles@decentral.games
+  twitter: Twitter.com/0xmiles
+  linkedin: https://www.linkedin.com/in/milesanthony760
+  image: /images/partners/miles.jpg
+  payment:
+    - Crypto
+  description: Decentral Games builds ICE Poker, the first metaverse-native, play-and-own poker game that give players economic freedom through self-custody and delegation of wearables.
+    - Wearables
+    - Events
+    - Land Rental
+
 
