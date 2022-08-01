@@ -402,4 +402,22 @@
   description: 3D wearables artist and supposed metaverse hair stylist.
   tags:
     - Wearable
+ - name: Roustan Body Paint
+  partnerId: 28
+  default_link: https://twitter.com/RoustanNFT
+  website: https://www.bodypainter.com/
+  phone: +13107747111
+  email: paulroustan@gmail.com
+  instagram: https://instagram.com/roustan
+  twitter: https://twitter.com/RoustanNFT
+  youtube: https://www.youtube.com/roustan
+  discord: roustan#4742
+  image: /images/partners/roustan.jpeg
+  payment:
+    - Crypto
+    - PayPal
+  description: "I'm a body painter. I paint on people and then photograph them. And I've brought this into the metaverse to share with the world!"
+  tags:
+    - Wearable
+    - Land Rental
 
