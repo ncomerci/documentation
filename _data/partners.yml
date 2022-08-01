@@ -369,7 +369,7 @@
     - Full Production
     - Land Rental
 - name: Aviram Studio
-     partnerId: 26
+  partnerId: 26
   default_link: https://aviram.studio
   website: https://aviram.studio
   phone: +65 85122038
