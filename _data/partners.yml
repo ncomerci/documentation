@@ -431,6 +431,7 @@
   payment:
     - Crypto
   description: Decentral Games builds ICE Poker, the first metaverse-native, play-and-own poker game that give players economic freedom through self-custody and delegation of wearables.
+  tags:
     - Wearables
     - Events
     - Land Rental
