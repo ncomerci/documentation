@@ -213,5 +213,31 @@
     - Events 
     - Full Production
     - Land Rental
+- name: Threedium
+  partnerId: 26
+  default_link: https://www.threedium.co.uk
+  website: https://www.threedium.co.uk
+  email: info@threedium.co.uk
+  twitter: https://twitter.com/Threedium
+  instagram: https://www.instagram.com/threedium3d/ 
+  linkedin: https://www.linkedin.com/company/threedium
+  discord: https://discord.gg/89Vt4Ddg
+  youtube: https://www.youtube.com/channel/UCO6WXEwHrtWHUzBxzvr3XdA
+  image: /images/partners/threedium.svg
+  description: The all-in-one 3d/ar engine to build and launch immersive commerce experiences and phygital wearables across any digital, physical or metaverse channel at scale.
+  location: Uk
+  langague:
+    - English
+    - Spanish
+    - German
+    - Greek
+  payments:
+    - Crypto
+    - Wire
+    tags:
+    - Wearables
+    - Architect 
+    - Full Production
+    - Land Rental
 
 
