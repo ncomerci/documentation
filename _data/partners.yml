@@ -16,13 +16,15 @@
 - name: Low Poly Models
   partnerId: 2
   default_link: https://www.lowpolymodelsworld.com/
-  website: https://www.lowpolymodelsworld.com/
+  website: www.lowpolymodelsworld.com
   discord: https://discordapp.com/users/584069387439570964/
-  twitter: https://twitter.com/KJWalker3D
+  twitter: https://twitter.com/lowpolymodelsw
   youtube: https://www.youtube.com/c/KatherineJoelleWalker/videos
-  email: lowpolymodelsworld@gmail.com
-  image: /images/partners/low-poly.webp
-  description: The Low Poly Models team specialises in developing high quality custom 3D assets in the smallest possible data packages. Making graphics load faster and improving the overall experience for everyone - ideal for blockchain and open-source metaverses like Decentraland. Low Poly helped brands like Fred Segal.
+  instagram: https://www.instagram.com/lowpolymodelsw/
+  email: lowpolymodelsoffice@gmail.com
+  sketchfab: https://sketchfab.com/LowPolyModelsWorld 
+  image: /images/partners/lowpolymodels.png
+  description: Low Poly Models specialise in developing high quality custom 3D assets like wearables, NPCs and or gamified scenes in the smallest possible data packages.  They have been in Decentraland working closely with the community and The Foundation since early 2019, creating scenes, asset packs and curating wearables via the Curation Committee.  The LPM team is very familiar with the ecosystem for wearable approvals, voting and community events.  They focus on making graphics load faster to improve the overall experience for both brand and user. Customisation and compaction like this is ideal for open source metaverses like Decentraland. Low Poly Models have helped brands such as Alison Wonderland, Async Art, Atari ®, Coca-Cola, CNN Brasil, Eden Reforestation Projects, Fred Segal, Jose Delbo, Known Origin, Maserati, $MEME, Mintbase, NIVA, NonFungible, Playboy, RTFKT, Subnation, SuperRare and $Whale.
   location: Spain
   languages:
     - English
@@ -34,6 +36,7 @@
   tags:
     - Wearables
     - Architect
+    - Events
     - Full Production
 - name: Voxel Architects
   partnerId: 3
