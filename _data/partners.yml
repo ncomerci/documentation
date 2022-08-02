@@ -59,6 +59,21 @@
     - Architect
     - Events
     - Full Production
+- name: Vegas City
+  partnerId: 4
+  default_link: https://www.vegascity.org/
+  website: https://www.vegascity.org/
+  facebook: https://www.facebook.com/vegascityvr/
+  twitter: https://twitter.com/VegasCityDCL
+  instagram: https://www.instagram.com/vegas_city_dcl/
+  discord: https://discord.gg/aXS3CDatbD
+  image: /images/partners/vegas-city.png
+  description: Vegas City is the largest gaming district in Decentraland. It presents prime real estate, exciting venues and in-world assets. Decentraland is a platform where individuals and businesses can create 3D content and applications which can be monetized and viewed in virtual reality. Anticipating that humans will spend a significant amount of time in the virtual world in the future, we believe Vegas City has the makings to become the next big social platform. Vegas City helped brands like D&G.
+  tags:
+    - Wearables
+    - Architect
+    - Events
+    - Full Production
 - name: Malloy
   partnerId: 5
   email: malloy@feekagames.com
@@ -77,6 +92,27 @@
   tags:
     - Wearables
     - Events
+- name: Kollektiff
+  partnerId: 6
+  default_link: https://kollectiff.com/
+  website: https://kollectiff.com/
+  email: contact@kollectiff.com
+  image: /images/partners/kollectiff.png
+  description: Kollektiff designed catwalks for Perry Ellis, Placebo, Faith. 
+  tags:
+    - 3D
+- name: Last Slice
+  partnerId: 7
+  default_link: https://lastslice.org/
+  website: https://lastslice.org/
+  discord: https://discord.com/invite/38NzDVRzR8
+  twitter: https://twitter.com/lastsliceco
+  email: info@lastslice.org
+  image: /images/partners/last-slice.png
+  description: Last Slice is a full-service development studio, from private scene building to custom brand solutions. Last Slice did support on the Fashion Districts (TBC).
+  tags:
+    - 3D
+    - Full Production
 
 - name: Fabeeo Breen
   partnerId: 9
@@ -116,6 +152,17 @@
     - Paypal
   tags:
     - Wearables
+- name: MetaSkins
+  partnerId: 11
+  default_link: https://metaskins.com/
+  website: https://metaskins.com/
+  linkedin: https://www.linkedin.com/company/metaskins/
+  email: camilaw@metaskins.com
+  image: /images/partners/metaskins.png
+  description: MetaSkins specialize in personalized digital wearables, custom infrastructure built on metaverse parcels and rand tailored metaverse events. MetaSkins helped brands like Placebo, Artisant and Etro.
+  tags:
+    - Wearables
+    - Architect
 
 - name: Sugar Club
   partnerId: 13
@@ -139,6 +186,22 @@
   description: Boutique Animation Studio making digital realms sparkle. We produce both 2d and 3d animation, storyboards and animatics for any pitch or project, and avatars that look good in any metaverse!
   tags:
     - Wearables
+- name: TerraZero Technologies
+  partnerId: 16
+  default_link: https://terrazero.com/
+  website: https://terrazero.com/
+  email: hello@terrazero.com
+  twitter: https://twitter.com/terrazerotech
+  instagram: https://www.instagram.com/terrazerotech/
+  linkedin: https://www.linkedin.com/company/77088789
+  image: /images/partners/terrazero.png
+  description: TerraZero is the premier metaverse studio and technologies firm across multiple metaverse worlds, with numerous 50-100 billion market cap clients active in Decentraland. 
+  tags:
+    - Wearables
+    - Architect
+    - Events 
+    - Land Rental
+    - Full Production
 - name: Cominted Labs
   partnerId: 21
   default_link: https://comintedlabs.io/
