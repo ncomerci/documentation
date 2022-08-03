@@ -167,17 +167,22 @@
   partnerId: 12
   default_link: https://www.polygonalmind.com/
   website: https://www.polygonalmind.com/
-  discord: https://discord.com/invite/m2cAVSn
+  discord: https://discord.gg/Ue9NDX92PF
   twitter: https://twitter.com/polygonalmind
   instagram: https://www.instagram.com/polygonalmind/
   linkedin: https://www.linkedin.com/company/polygonal-mind/
   portfolio: https://www.metaversebuilder.co/portfolio
+  youtube: https://www.youtube.com/c/PolygonalMind
   email: info@polygonalmind.com
+  schetchfab: https://sketchfab.com/polygonalmind
   image: /images/partners/polygonal-mind.png
   description: Building Decentraland since 2019. Our dedicated Decentraland team imagines, designs and develops experiences, games and Crypto-Art galleries. Over 35 projects and more than 3k LANDs constructed in the Decentraland Metaverse.
   tags:
     - Wearables
     - Architect
+    - Events
+    - Land Rental
+    - Full Production
 
 - name: Sugar Club
   partnerId: 13
