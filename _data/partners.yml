@@ -176,7 +176,15 @@
   email: info@polygonalmind.com
   schetchfab: https://sketchfab.com/polygonalmind
   image: /images/partners/polygonal-mind.png
-  description: Building Decentraland since 2019. Our dedicated Decentraland team imagines, designs and develops experiences, games and Crypto-Art galleries. Over 35 projects and more than 3k LANDs constructed in the Decentraland Metaverse.
+  description: "Creative Development Studio that imagines, designs and develops stunning environments, avatars, wearables, games and experiences for the Metaverse. We're focused on optimization, lowpoly and beautiful aesthetics. We build what cannot be built in real life, with an extra touch of magic and love."
+  langague:
+    - English
+    - Spanish
+    payments:
+    - Crypto
+    - Wire
+    - Paypal
+    - Credit Card
   tags:
     - Wearables
     - Architect
