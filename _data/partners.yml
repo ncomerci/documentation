@@ -331,5 +331,24 @@
     - Architect 
     - Full Production
     - Land Rental
+- name: Miles
+  partnerId: 27
+  default_link: https://twitter.com/0xmiles
+  website: https://decentral.games
+  email: miles@decentral.games
+  twitter: https://twitter.com/0xmiles
+  linkedin: https://www.linkedin.com/in/milesanthony760
+  image: /images/partners/miles.jpg
+  description: Decentral Games builds ICE Poker, the first metaverse-native, play-and-own poker game that give players economic freedom through self-custody and delegation of wearables.
+  location: Bvi
+  langague:
+    - English
+  tags:
+    - Wearables
+    - Events 
+    - Land Rental
+    - Large Studio
+  payments:
+    - Crypto
 
 
