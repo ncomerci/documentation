@@ -26,6 +26,7 @@
   image: /images/partners/lowpolymodels.png
   description: Low Poly Models specialise in developing high quality custom 3D assets like wearables, NPCs and or gamified scenes in the smallest possible data packages.  They have been in Decentraland working closely with the community and The Foundation since early 2019, creating scenes, asset packs and curating wearables via the Curation Committee.  The LPM team is very familiar with the ecosystem for wearable approvals, voting and community events.  They focus on making graphics load faster to improve the overall experience for both brand and user. Customisation and compaction like this is ideal for open source metaverses like Decentraland. Low Poly Models have helped brands such as Alison Wonderland, Async Art, Atari ®, Coca-Cola, CNN Brasil, Eden Reforestation Projects, Fred Segal, Jose Delbo, Known Origin, Maserati, $MEME, Mintbase, NIVA, NonFungible, Playboy, RTFKT, Subnation, SuperRare and $Whale.
   location: Spain
+  
   languages:
     - English
     - Spanish
@@ -177,7 +178,7 @@
   schetchfab: https://sketchfab.com/polygonalmind
   image: /images/partners/polygonal-mind.png
   description: "Creative Development Studio that imagines, designs and develops stunning environments, avatars, wearables, games and experiences for the Metaverse. We're focused on optimization, lowpoly and beautiful aesthetics. We build what cannot be built in real life, with an extra touch of magic and love."
-  langague:
+  languages:
     - English
     - Spanish
     payments:
@@ -321,7 +322,7 @@
   image: /images/partners/threedium.jpg
   description: The all-in-one 3d/ar engine to build and launch immersive commerce experiences and phygital wearables across any digital, physical or metaverse channel at scale.
   location: Uk
-  langague:
+  languages:
     - English
     - Spanish
     - German
@@ -331,7 +332,7 @@
     - Architect 
     - Full Production
     - Land Rental
-- name: Miles
+- name: Decentral Games
   partnerId: 27
   default_link: https://twitter.com/0xmiles
   website: https://decentral.games
@@ -340,8 +341,8 @@
   linkedin: https://www.linkedin.com/in/milesanthony760
   image: /images/partners/miles.jpg
   description: Decentral Games builds ICE Poker, the first metaverse-native, play-and-own poker game that give players economic freedom through self-custody and delegation of wearables.
-  location: Bvi
-  langague:
+  location: British
+  languages:
     - English
   tags:
     - Wearables
@@ -360,7 +361,7 @@
   image: /images/partners/renovistudios.png
   description: Renovi Studios is a Web3 agency that develops and builds Metaverse and NFT strategiesfor leading brands in the fashion, entertainment, sports, and hospitality sectors.
   location: United Kingdom
-  langague:
+  languages:
     - English
   payments:
     - Crypto
@@ -369,5 +370,25 @@
     - Architect
     - Land Rental
     - Full Production
-
+- name: Bioma
+  partnerId: 29
+  default_link: http://www.biomanft.xyz/
+  website: http://www.biomanft.xyz/
+  twitter: https://twitter.com/bioma_nft
+  instagram: https://www.instagram.com/bioma_nft/
+  linkedin: https://www.linkedin.com/in/carolinamunozawad/
+  image: /images/partners/bioma.png
+  description: bioma is a project to threedeemodel the metaverse. Based on the idea of a biome: "a large naturally occurring community occupying a major habitat”, we offer a design experience that revolves around the performativity of the body, virtual materiality, and how these two interact.
+ location: United States
+ languages:
+    - English
+    - Spanish
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Individual
+    - Wearables
+    - Architect
+  phone: +16462033991
 
