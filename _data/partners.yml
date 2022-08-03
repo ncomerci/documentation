@@ -181,7 +181,7 @@
   languages:
     - English
     - Spanish
-    payments:
+  payments:
     - Crypto
     - Wire
     - Paypal
