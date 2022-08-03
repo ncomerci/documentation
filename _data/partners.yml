@@ -350,5 +350,26 @@
     - Large Studio
   payments:
     - Crypto
+- name: Renovi Studios
+  partnerId: 28
+  default_link: adonis@renovi.io
+  website: https://renovistudios.xyz
+  email: adonis@renovi.io
+  twitter: https://twitter.com/RenoviStudios
+  instagram: https://www.instagram.com/renovistudios/
+  linkedin: https://www.linkedin.com/company/renovinft
+  image: /images/partners/renovistudios.png
+  description: Renovi Studios is a Web3 agency that develops and builds Metaverse and NFT strategiesfor leading brands in the fashion, entertainment, sports, and hospitality sectors.
+  location: United Kingdom
+  langague:
+    - English
+  payments:
+    - Crypto
+    - Wire
+  tags:
+    - Architect
+    - Land Rental
+    - Full Production
+    - Small Studio
 
 
