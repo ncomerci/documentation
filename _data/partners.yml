@@ -13,7 +13,7 @@
   tags:
     - Wearables
     - Architect
-    - Land Rental
+    - Land
     - Consulting
     - Events
   payments:
@@ -214,7 +214,7 @@
     - Wearables
     - Architect
     - Events
-    - Land Rental
+    - Land
     - Consulting
 
 - name: Sugar Club
@@ -268,7 +268,7 @@
     - Wearables
     - Architect
     - Events 
-    - Land Rental
+    - Land
     - Consulting
 - name: Cominted Labs
   partnerId: 21
@@ -359,7 +359,7 @@
     - Architect
     - Events 
     - Consulting
-    - Land Rental
+    - Land
 - name: BeatBlox Studio & Music District
   partnerId: 25
   default_link: https://www.beatblox.org/
@@ -384,7 +384,7 @@
     - Architect
     - Events 
     - Consulting
-    - Land Rental
+    - Land
 - name: Threedium
   partnerId: 26
   default_link: https://www.threedium.co.uk
@@ -412,7 +412,7 @@
     - Wearables
     - Architect 
     - Consulting
-    - Land Rental
+    - Land
 - name: Decentral Games
   partnerId: 27
   default_link: https://twitter.com/0xmiles
@@ -429,7 +429,7 @@
   tags:
     - Wearables
     - Events 
-    - Land Rental
+    - Land
   payments:
     - Crypto
 - name: Renovi Studios
@@ -451,7 +451,7 @@
     - Wire
   tags:
     - Architect
-    - Land Rental
+    - Land
     - Consulting
 - name: Bioma
   partnerId: 29
@@ -519,7 +519,7 @@
     - Wearables
     - Architect
     - Events 
-    - Land Rental
+    - Land
     - Consulting
 - name: Michi Todd
   partnerId: 32
