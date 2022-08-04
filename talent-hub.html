@@ -8,7 +8,33 @@
       {{ content | markdownify }}
     </div>
 
-    {% for partner in site.data.partners %}
+    <h3>Provided Services</h3>
+    <table>
+      <tr>
+          <td style="width: 20%;"><span class="tag tag-wearables">Wearable Design</span></td>
+          <td>3D Modeling skills to produce a wearable under the acceptance criteria of Decentraland's DAO Curators Committee. Such us hats, t-shirts and full-body skins.</td>
+      </tr>
+      <tr>
+          <td><span class="tag tag-architect">Architecture</span></td>
+          <td>3D Modeling and SDK Development skills to create objects and spaces ready to be placed in your Decentraland scene. Such as art galeries and parkour courses.</td>
+      </tr>
+      <tr>
+          <td><span class="tag tag-events">Event Production</span></td>
+          <td>A company of producers that can help you set up an event in a DCL venue. They can help find a venue for your needs, customizing the scene, promoting the event, doing a live-stream and more.</td>
+      </tr>
+      <tr>
+          <td><span class="tag tag-consulting">Consulting</span></td>
+          <td>Studios that will guide you through the whole process, from sketching ideas to launching your campaign to your audience.</td>
+      </tr>
+      <tr>
+          <td><span class="tag tag-land">Land Rental</span></td>
+          <td>Land owners offering a place to locate your experience in Decentraland's Genesis City.</td>
+      </tr>
+    </table>
+
+    <h1>Verified Partners</h1>
+    {% assign spartners = site.data.partners | sort: 'name' %}
+    {% for partner in spartners %}
       <div class="providerContainer">
         <div class="providerImage" style="background: url('{{ partner.image }}');background-size: contain;background-position: center;background-repeat: no-repeat;">
           <a href="{{ partner.default_link }}" target="_blank"></a>
@@ -17,7 +43,8 @@
           <h3 style="margin:0;"><a href="{{ partner.default_link }}" target="_blank">{{ partner.name }}</a></h3>
           <div class="meta">
             <div class="tags">
-              {% for tag in partner.tags %}
+              {% assign stags = partner.tags | sort %}
+              {% for tag in stags %}
               <span class="tag tag-{{ tag | slugify }}">{{ tag }}</span>
               {% endfor %}
             </div>
@@ -34,12 +61,20 @@
           </div>
           <input type="checkbox" id="partner-{{ partner.partnerId }}" class="read-more-state" />
           <p>{{ partner.description }}</p>
-          {% if partner.description.size >= 230 %}
+          <table>
+            <tr><td>Region</td><td>{{ partner.location }}</td></tr>
+            <tr><td>Studio size</td><td>{{ partner.team_size }}</td></tr>
+            <tr><td>Languages</td><td>{{ partner.languages | join: ", " }}</td></tr>
+            <tr><td>Payment methods</td><td>{{ partner.payments | join: ", " }}</td></tr>
+          </table>
           <label class="read-more-trigger" for="partner-{{ partner.partnerId }}"></label>
-          {% endif %}
         </div>
       </div>
     {% endfor %}
+
+    <p class="attribution">
+    This registry is lead by an independant team supported by <a href="https://governance.decentraland.org/proposal/?id=81af5b00-02e6-11ed-8f44-ef1722f0509f">Decentraland’s DAO</a>. If your organization is not on this list and you have experience building content for Decentraland, please <a href="https://dclstudios.typeform.com/to/L49y84qX">fill out this form</a>.
+    </p>
 
     {% include newsletter.html %}
 

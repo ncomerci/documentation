@@ -5,9 +5,10 @@
   font-size: 0.7rem;
   padding: 0.2rem 0.5rem;
   font-weight: bold;
+  display: inline-block;
 }
 
-.tag-3d {
+.tag-events {
   background-color: #FEEFD2;
   color: #FF7439;
 }
@@ -22,17 +23,12 @@
   color: #FF5AFE;
 }
 
-.tag-district {
-  background-color: #E0DCF3;
-  color: #3C24B3;
-}
-
-.tag-full-production {
+.tag-consulting {
   background-color: #F3B3BE;
   color: #D80027;
 }
 
-.tag-individual {
+.tag-land {
   background-color: #E2ECFC;
   color: #4888EE;
 }
@@ -100,12 +96,40 @@
   white-space: normal;
   margin-bottom: .5em;
 }
+
 .providerContainer .textContainer .read-more-state {
   display: none;
 }
+
+.providerContainer .textContainer .read-more-state:checked ~ table {
+  display: table;
+}
+
 .providerContainer .textContainer .read-more-state:checked ~ p {
   text-overflow: normal;
   display: block;
+}
+
+.providerContainer .textContainer table {
+  display: none;
+  margin-bottom: 1em;
+  font-size: 0.9em;
+  font-weight: 400;
+  color: #736E7D;
+}
+ 
+table tr:last-child td {
+  border: none;
+}
+
+.providerContainer .textContainer table tr td {
+  padding: .6em .5em .6em 0;
+}
+
+.providerContainer .textContainer table tr td:first-child {
+  width: 33%;
+  font-weight: 500;
+  text-transform: uppercase;
 }
 
 .read-more-state ~ .read-more-trigger:before {
@@ -122,6 +146,14 @@
   color: #FF2D55;
   font-size: 1em;
   font-weight: 500;
+}
+
+.attribution {
+  font-style: italic;
+  color: #736E7D;
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 0.9rem;
 }
 
 @media only screen and (min-width: 501px) and (max-width: 640px) {
