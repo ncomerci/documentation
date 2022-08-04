@@ -569,3 +569,26 @@
     - Architect
     - Events 
     - Consulting
+- name: Doki
+  partnerId: 34
+  default_link: https://doki3d.com/
+  website: https://doki3d.com/
+  email: admin@doki3d.com
+  twitter: https://twitter.com/Doki3D
+  discord: http://discord.gg/Doki#9529
+  instagram: https://Instagram.com/Doki3D
+  youtube: https://www.youtube.com/channel/UCNDNe8IvNeLoHXDER_fe-xg
+  sketchfab: https://sketchfab.com/Doki3D
+  phone: +447367750305
+  image: /images/partners/doki.png
+  description: 3D wearables artist and supposed metaverse hair stylist.
+  location: United Kingdom
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+  tags:
+    - Wearables
