@@ -13,9 +13,8 @@
   tags:
     - Wearables
     - Architect
-    - 3D
     - Land Rental
-    - Full Production
+    - Consulting
     - Events
   payments:
     - Crypto
@@ -48,9 +47,8 @@
   tags:
     - Wearables
     - Architect
-    - 3D
     - Events
-    - Full Production
+    - Consulting
 - name: Voxel Architects
   partnerId: 3
   default_link: https://voxelarchitects.com/
@@ -72,9 +70,8 @@
   tags:
     - Wearables
     - Architect
-    - 3D
     - Events
-    - Full Production
+    - Consulting
 - name: Vegas City
   partnerId: 4
   default_link: https://www.vegascity.org/
@@ -88,9 +85,8 @@
   tags:
     - Wearables
     - Architect
-    - 3D
     - Events
-    - Full Production
+    - Consulting
 - name: Malloy
   partnerId: 5
   email: malloy@feekagames.com
@@ -110,7 +106,7 @@
   tags:
     - Wearables
     - Architect
-    - Full Production
+    - Consulting
     - Events
 - name: Kollektiff
   partnerId: 6
@@ -120,7 +116,6 @@
   image: /images/partners/kollectiff.png
   description: Kollektiff designed catwalks for Perry Ellis, Placebo, Faith. 
   tags:
-    - 3D
 - name: Last Slice
   partnerId: 7
   default_link: https://lastslice.org/
@@ -131,8 +126,7 @@
   image: /images/partners/last-slice.png
   description: Last Slice is a full-service development studio, from private scene building to custom brand solutions. Last Slice did support on the Fashion Districts (TBC).
   tags:
-    - 3D
-    - Full Production
+    - Consulting
 
 - name: Fabeeo Breen
   partnerId: 9
@@ -219,10 +213,9 @@
   tags:
     - Wearables
     - Architect
-    - 3D
     - Events
     - Land Rental
-    - Full Production
+    - Consulting
 
 - name: Sugar Club
   partnerId: 13
@@ -244,7 +237,7 @@
     - Wearables
     - Architect
     - Events
-    - Full Production
+    - Consulting
 - name: Studio Sparkles 
   partnerId: 14
   default_link: https://www.sparkles.studio/
@@ -276,7 +269,7 @@
     - Architect
     - Events 
     - Land Rental
-    - Full Production
+    - Consulting
 - name: Cominted Labs
   partnerId: 21
   default_link: https://comintedlabs.io/
@@ -298,7 +291,7 @@
     - Wearables
     - Architect
     - Events 
-    - Full Production
+    - Consulting
 - name: SpacesDAO
   partnerId: 22
   default_link: https://spacesdao.xyz/
@@ -320,7 +313,7 @@
   tags:
     - Wearables
     - Architect
-    - Full Production
+    - Consulting
 - name: Filmrare
   partnerId: 23
   default_link: https://www.filmrare.com/
@@ -364,9 +357,8 @@
   tags:
     - Wearables
     - Architect
-    - 3D
     - Events 
-    - Full Production
+    - Consulting
     - Land Rental
 - name: BeatBlox Studio & Music District
   partnerId: 25
@@ -390,9 +382,8 @@
     - Crypto
   tags:
     - Architect
-    - 3D
     - Events 
-    - Full Production
+    - Consulting
     - Land Rental
 - name: Threedium
   partnerId: 26
@@ -420,8 +411,7 @@
   tags:
     - Wearables
     - Architect 
-    - 3D
-    - Full Production
+    - Consulting
     - Land Rental
 - name: Decentral Games
   partnerId: 27
@@ -438,7 +428,6 @@
     - English
   tags:
     - Wearables
-    - 3D
     - Events 
     - Land Rental
   payments:
@@ -463,7 +452,7 @@
   tags:
     - Architect
     - Land Rental
-    - Full Production
+    - Consulting
 - name: Bioma
   partnerId: 29
   default_link: http://www.biomanft.xyz/
@@ -531,7 +520,7 @@
     - Architect
     - Events 
     - Land Rental
-    - Full Production
+    - Consulting
 - name: Michi Todd
   partnerId: 32
   default_link: https://mitchtodd.com/
@@ -552,7 +541,7 @@
   tags:
     - Wearables
     - Architect
-    - Full Production
+    - Consulting
 - name: AaronLeupp.com
   partnerId: 33
   default_link: https://www.aaronleupp.com
@@ -579,5 +568,4 @@
     - Wearables
     - Architect
     - Events 
-    - 3D
-    - Full Production
+    - Consulting
