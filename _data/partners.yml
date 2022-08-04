@@ -553,3 +553,31 @@
     - Wearables
     - Architect
     - Full Production
+- name: AaronLeupp.com
+  partnerId: 33
+  default_link: https://www.aaronleupp.com
+  website: https://www.aaronleupp.com
+  discord: https://discord.gg/6CJbQdRu5N
+  twitter: https://twitter.com/AaronLeupp
+  linkedin: https://www.linkedin.com/in/aaronleupp/
+  email: aaronleupp@hotmail.com
+  instagram: www.instagram.com/leupp
+  youtube: https://www.youtube.com/channel/UCsM_K2RF3hpamX0pOgwebjg
+  phone: +16232386390
+  image: /images/partners/aaronleupp.jpg
+  description: Decentraland Wearables, Land Development, Event Hosting, Promotion and everything in between. With over 100,000 NFT owners with our Waifumon collection and 15,000+ twitter followers as well as over 20+ Decentraland events, parties, concerts, parkours, challenges, mazes, games and more can help with any challenge or occasion no matter how big or small.
+  team_size: Medium Studio
+  location: USA
+  languages:
+    - English
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+    - Wire Transfer
+  tags:
+    - Wearables
+    - Architect
+    - Events 
+    - 3D
+    - Full Production
