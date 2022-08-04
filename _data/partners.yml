@@ -532,4 +532,23 @@
     - Events 
     - Land Rental
     - Full Production
-
+- name: Michi Todd
+  partnerId: 32
+  default_link: michitodd@gmail.com
+  website: https://mitchtodd.com/
+  twitter: https://twitter.com/michi_todd
+  phone: +61433110043
+  linkedin: https://www.linkedin.com/in/mitch-todd/
+  image: /images/partners/michitodd.png
+  description: Bridging brands and artists through digital representation.
+  location: Australia
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearables
+    - Architect
+    - Full Production
