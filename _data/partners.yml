@@ -116,6 +116,7 @@
   image: /images/partners/kollectiff.png
   description: Kollektiff designed catwalks for Perry Ellis, Placebo, Faith. 
   tags:
+    - Wearables
 - name: Last Slice
   partnerId: 7
   default_link: https://lastslice.org/
