@@ -593,3 +593,24 @@
     - Credit Card
   tags:
     - Wearables
+- name: Luke Escobar
+  partnerId: 35
+  default_link: https://doki3d.com/
+  email: lukeescobar@gmail.com
+  twitter: https://twitter.com/eellillee
+  discord: http://www.discordapp.com/users/329781973973336074
+  youtube: https://www.youtube.com/channel/UCNDNe8IvNeLoHXDER_fe-xg
+  sketchfab: https://sketchfab.com/varchitecture
+  phone: +12144155144
+  image: /images/partners/lukeescobar.png
+  description: Decentraland Architecture, 3D Modeling, and Scene Design.
+  location: USA
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - Credit Card
+  tags:
+    - Architect
+    - Land
