@@ -257,6 +257,7 @@
   image: /images/partners/sparkles-studio.jpeg
   description: Boutique Animation Studio making digital realms sparkle. We produce both 2d and 3d animation, storyboards and animatics for any pitch or project, and avatars that look good in any metaverse!
   location: Canada
+  team_size: Medium Studio
   languages:
     - English
   payments:
@@ -516,7 +517,7 @@
   image: /images/partners/pangea.jpeg
   description: PangeaDAO is a Metaverse real estate trust that acquires, develops, and commercializes land in virtual worlds. Pangea’s investment, development, and consulting arms work to create a more equitable and accessible Metaverse for individuals, collectives, and brands.
   team_size: Medium Studio
-  location: USA
+  location: United States
   languages:
     - English
     - Spanish
@@ -565,7 +566,7 @@
   image: /images/partners/aaronLeupp.jpg
   description: Decentraland Wearables, Land Development, Event Hosting, Promotion and everything in between. With over 100,000 NFT owners with our Waifumon collection and 15,000+ twitter followers as well as over 20+ Decentraland events, parties, concerts, parkours, challenges, mazes, games and more can help with any challenge or occasion no matter how big or small.
   team_size: Medium Studio
-  location: USA
+  location: United States
   languages:
     - English
   payments:
@@ -612,7 +613,7 @@
   phone: +12144155144
   image: /images/partners/2B5971FA-AB66-45C1-B7A8-6A2990000063.jpeg
   description: Decentraland Architecture, 3D Modeling, and Scene Design.
-  location: USA
+  location: United States
   languages:
     - English
   team_size: Individual
