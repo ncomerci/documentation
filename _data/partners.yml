@@ -264,20 +264,30 @@
     - Crypto
   tags:
     - Wearables
-- name: TerraZero Technologies
+- name: TerraZero Technologies Inc.
   partnerId: 16
   default_link: https://terrazero.com/
   website: https://terrazero.com/
   email: hello@terrazero.com
   twitter: https://twitter.com/terrazerotech
   instagram: https://www.instagram.com/terrazerotech/
-  discord: https://discord.com/invite/ztPkbrmGCd
+  discord: https://discord.gg/qPTZEJ4E
   linkedin: https://www.linkedin.com/company/77088789
   image: /images/partners/terrazero.png
-  description: TerraZero is the premier metaverse studio and technologies firm across multiple metaverse worlds, with numerous 50-100 billion market cap clients active in Decentraland. 
+  youtube: https://www.youtube.com/channel/UC2SMdQwEWMU_56WMzhknFVg?app=desktop
+  location: United States
+  languages:
+    - English
+  team_size: Large Studio
+  description: TerraZero is the premier metaverse studio and technologies firm across multiple metaverse worlds, with numerous 50-100 billion market cap clients active in Decentraland.
+  payments: 
+    - Wire
+    - PayPal
+    - Credit Card
   tags:
     - Wearables
     - Architect
+    - 3D
     - Events 
     - Land
     - Consulting
