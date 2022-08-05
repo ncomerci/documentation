@@ -76,17 +76,27 @@
   partnerId: 4
   default_link: https://www.vegascity.org/
   website: https://www.vegascity.org/
+  email: info@vegascity.org
   facebook: https://www.facebook.com/vegascityvr/
   twitter: https://twitter.com/VegasCityDCL
   instagram: https://www.instagram.com/vegas_city_dcl/
-  discord: https://discord.gg/aXS3CDatbD
+  discord: https://discord.gg/sku6VQDffc
+  linkedin: https://www.linkedin.com/company/vegas-city-limited/
   image: /images/partners/vegas-city.png
-  description: Vegas City is the largest gaming district in Decentraland. It presents prime real estate, exciting venues and in-world assets. Decentraland is a platform where individuals and businesses can create 3D content and applications which can be monetized and viewed in virtual reality. Anticipating that humans will spend a significant amount of time in the virtual world in the future, we believe Vegas City has the makings to become the next big social platform. Vegas City helped brands like D&G.
+  description: "Vegas City is Decentraland's premiere entertainment and commerce zone. Vegas City are also one of the most experienced metaverse studios and have created some of the biggest and most complex gamified experiences such as the Australian Open, Metathon, The Flamingos casino and more recently, the Jose Cuervo metadistillery."
+  languages:
+    - English
+  team_size: Large Studio
+  location: United Kingdom
+  payments: 
+    - Crypto
+    - Wire
   tags:
     - Wearables
     - Architect
     - Events
     - Consulting
+    - Land Rental
 - name: Malloy
   partnerId: 5
   email: malloy@feekagames.com
