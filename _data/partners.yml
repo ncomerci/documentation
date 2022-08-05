@@ -623,3 +623,23 @@
   tags:
     - Architect
     - Land
+- name: Roustan
+  partnerId: 36
+  default_link: https://twitter.com/RoustanNFT
+  email: paulroustan@gmail.com
+  twitter: https://twitter.com/RoustanNFT
+  discord: http://www.discordapp.com/users/roustan#4742
+  youtube: https://www.youtube.com/roustan
+  phone: +113107747111
+  image: /images/partners/.jpeg
+  description: I'm a body painter. I paint on people and then photograph them. And I've brought this into the metaverse to share with the world!
+  location: United States
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - Pay Pal
+  tags:
+    - Events
+    - Land
