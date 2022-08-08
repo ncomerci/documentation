@@ -655,3 +655,26 @@
     - Events
     - Land
     - Consulting
+- name: Meta Live Studio
+  partnerId: 37
+  default_link: https://linktr.ee/MetadogeNFTlinks
+  website: https://metalivestudio.com
+  email: metalivestudio@gmail.com
+  twitter: https://twitter.com/Metalivestudio
+  discord: https://discord.com/invite/metadogeatmetagamimall
+  phone: +447579941539
+  image: /images/partners/.jpeg
+  description: Metaverse is place of possibilities, our services begins with your idea. Maybe you want to launch a business in Metaverses, but don’t know whcih Metaverse you want to be. Maybe you want some advice in land options. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.
+  location: United Kingdom
+  languages:
+    - English
+    - Chinese 
+  team_size: Medium
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+  tags:
+    - Events
+    - Architect
+    - Consulting
