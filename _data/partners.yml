@@ -131,12 +131,23 @@
   partnerId: 7
   default_link: https://lastslice.org/
   website: https://lastslice.org/
-  discord: https://discord.com/invite/38NzDVRzR8
+  discord: https://discord.gg/ffrgkr3mN3
   twitter: https://twitter.com/lastsliceco
   email: info@lastslice.org
   image: /images/partners/last-slice.png
-  description: Last Slice is a full-service development studio, from private scene building to custom brand solutions. Last Slice did support on the Fashion Districts (TBC).
+  description: The Last Slice Collective is a full cycle development studio comprised of over 200 talented multi-disciplinary artists dedicated to creating the most immersive and innovative experiences in Decentraland. From wearable creations to full custom scene creation and ideation, The Last Slice Collective has delivered over 40 different types of experiences in Decentraland in the last year including but not limited to, Samsung, Wall Street Bets, Snapple, Playboy, Animetas, Club Nyan Cat, Chibi Apes, Bright Moments (Venetian), DCL Halloween 2021, Deadheads, Apes3d, Canine Country Club, Rebel Bots, 420 Fest at Xetaplex, and more...
+  team-size: Large Studio
+  instagram: https://www.instagram.com/lastsliceco/
+  opensea: https://opensea.io/collection/last-slice-collective-nft
+  location: United States
+  languages: 
+    - English
   tags:
+    - Wearables
+    - Architect
+    - 3D
+    - Land Rental
+    - Events
     - Consulting
 
 - name: Fabeeo Breen
