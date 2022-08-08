@@ -700,3 +700,26 @@
     - Events
     - Architect
     - Consulting
+- name: MetaZone
+  partnerId: 38
+  default_link: https://metazone.io/
+  website: https://metazone.io/
+  email: will@metazone.io
+  linkedin: https://www.linkedin.com/in/williamgomezjr/
+  discord: https://discord.gg/expesqQar8
+  twitter: https://twitter.com/MetaZoneio
+  instagram: https://instagram.com/metazoneio?igshid=YmMyMTA2M2Y=
+  parcel: https://play.decentraland.org/?realm=hephaestus&position=61%2C-27&island=Ibfmu
+  youtube: https://www.youtube.com/c/TheBlockRunner/featured
+  image: /images/partners/metazone.png
+  description: MetaZone is the app store for the metaverse. We call these apps METAs which stands for Metaverse Enabled Tokenized Applications. A META can be a deployable business as an NFT or a distributed play to earn game as a set of deployable NFTs. Anyone can create and submit METAs to the marketplace and MetaZone can distribute these METAs to any land in a few clicks.
+  location: Singapore
+  languages:
+    - English 
+  team_size: Medium Studio
+  payments:
+    - Crypto
+  tags:
+    - Events
+    - 3D
+    - Consulting
