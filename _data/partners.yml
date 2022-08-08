@@ -723,3 +723,23 @@
     - Events
     - 3D
     - Consulting
+- name: Dragocapital
+  partnerId: 39
+  default_link: https://www.dcapitalinvest.com/
+  website: https://www.dcapitalinvest.com/
+  email: dcl@dcapitalinvest.com
+  image: /images/partners/drago-capital.png
+  description: Capital investments in real estate both metaverse and Athens Greece Properties. Events at Vanilla ICE club.
+  location: Greece
+  - phone: +306980676729
+  languages:
+    - English 
+    - Hebrew
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - PayPal
+  tags:
+    - Events
+    - Land
