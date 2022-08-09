@@ -776,3 +776,24 @@
     - Wearables
     - Architect
     - Consulting
+- name: BigNasty
+  partnerId: 41
+  default_link: http://bndesigns.io/
+  website: http://bndesigns.io/
+  email: shaetobin@bndesigns.io
+  twitter: https://twitter.com/bignastyeth
+  discord: https://discord.gg/r2FcqCaG
+  youtube: https://youTube.com/DCLTutor
+  image: /images/partners/bignasty.png
+  description: We are a team of blender professionals that center around making wearable NFTs for metaverses such as Decentraland!
+  location: United States
+  languages:
+    - English 
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearables
+    - Architect
+ 
