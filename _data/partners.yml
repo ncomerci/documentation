@@ -754,3 +754,25 @@
   tags:
     - Events
     - Land
+- name: Scalar Vision
+  partnerId: 40
+  default_link: https://scalarvision.com/urun-360/
+  website: https://scalarvision.com/urun-360/
+  email: bulent.demirhan@scalarvision.com
+  phone: +905326032719
+  instagram: https://www.instagram.com/scalarvision/
+  linkedin: https://www.linkedin.com/company/scalarvision/?viewAsMember=true
+  image: /images/partners/scalarvision.png
+  description: * Management consultancy about immersive techs * Create Metaverse Strategy * Design Metaverse Appereance with brand identity, inluding architectural design and 3D asset generation, NFT creation * Create ideas for utilization of Brand's Metaverse Appereance.
+  location: Turkey
+  languages:
+    - English 
+    - Turkish
+  team_size: Medium Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Wearables
+    - Architect
+    - Consulting
