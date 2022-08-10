@@ -796,4 +796,32 @@
   tags:
     - Wearables
     - Architect
- 
+ - name: Lapsus Next
+  partnerId: 42
+  default_link: https://discord.gg/Twu4fRxAF6
+  website: https://www.lapsusnext.com/
+  email: letsconnect@lapsusnext.com
+  phone: +918219026870
+  linkedin: https://www.linkedin.com/company/13644537/
+  discord: https://discord.gg/Twu4fRxAF6
+  twitter: https://twitter.com/LapsusNext
+  instagram: https://www.instagram.com/lapsusnext/
+  parcel: https://parcel.so/creatorverse/creator/lapsus-next
+  image: /images/partners/lapsusnext.png
+  description: Lapsus Next is the Creative design agency determined to work towards innovative solutions for your business growth. Lapsus Next is proudly one of the rarest firms to provide you with a complete solution in the METAVERSE world. From game design and NFT development to Web3 marketing, we got your back.
+  location: India
+  languages:
+    - English 
+    - Hindi
+  team_size: Medium Studio
+  payments:
+    - Crypto
+    - PayPal
+    _ Wire Transfer
+  tags:
+    - Events
+    - 3D
+    - Architect
+    - Wearables
+    - Consulting
+
