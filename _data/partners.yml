@@ -848,4 +848,30 @@
     - Consulting
     - 3D
     - Land
+- name: Oktopluz
+  partnerId: 44
+  default_link: https://www.oktopluz.com
+  website: https://www.oktopluz.com
+  email: contact@oktopluz.com
+  linkedin: https://www.linkedin.com/company/oktopluz-nft-metaverse/
+  twitter: https://twitter.com/Oktopluz_Studio
+  instagram: https://www.instagram.com/oktopluz/
+  youtube: https://www.youtube.com/channel/UCz-g69qhfHOV2Zuy7xgLiIw
+  phone: +34608509213
+  image: /images/partners/oktopluz.png
+  description: If you can imagine, we can do it. If you can't, we imagine and build it for you.
+  location: Spain
+  languages:
+    - English
+    - Spain
+    - Portuguese
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - Paypal
+  tags:
+    - Architect
+    - Consulting
+    - Wearables
 
