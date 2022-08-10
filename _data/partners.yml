@@ -796,7 +796,7 @@
   tags:
     - Wearables
     - Architect
- - name: Lapsus Next
+- name: Lapsus Next
   partnerId: 42
   default_link: https://discord.gg/Twu4fRxAF6
   website: https://www.lapsusnext.com/
@@ -817,7 +817,7 @@
   payments:
     - Crypto
     - PayPal
-    - Wire Transfer
+    - Wire
   tags:
     - Events
     - 3D
