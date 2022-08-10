@@ -824,4 +824,28 @@
     - Architect
     - Wearables
     - Consulting
+- name: Bandwagon Labs
+  partnerId: 43
+  default_link: https://www.bandwagonlabs.xyz/
+  website: https://www.bandwagonlabs.xyz/
+  email: jibrail@bandwagon.asia
+  linkedin: https://www.linkedin.com/in/jibrail-idris/
+  youtube: https://www.youtube.com/channel/UCz-g69qhfHOV2Zuy7xgLiIw
+  phone: +6582661085
+  image: /images/partners/bandwagonlabs.jpeg
+  description: End to end Decentraland web3 marketing, NFTs, wearable and gamification solutions.
+  location: Singapore
+  languages:
+    - English
+    - Malay 
+  team_size: Medium Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Events
+    - Architect
+    - Consulting
+    - 3D
+    - Land Rental
 
