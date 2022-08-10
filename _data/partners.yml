@@ -926,4 +926,26 @@
     - Events
     - Consulting
     - Land
+- name: Stoney Eye
+  partnerId: 46
+  default_link: sespromusic@gmail.com
+  website: https://www.parcelparty.io
+  email: sespromusic@gmail.com
+  discord: StoneyEye#3965
+  twitter: https://twitter.com/@stoney_eye
+  image: /images/partners/stoneyeye.png
+  description: Stoney Eye Studios is here for your Live DJ needs. As well as artwork, such as full NFT projects or even just a flier design. We also do music production, wearables, and land rentals.
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Paypal
+  tags:
+    - Wearables
+    - Events
+    - Consulting
+    - Land
+    - Dj
 
