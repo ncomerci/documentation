@@ -817,7 +817,7 @@
   payments:
     - Crypto
     - PayPal
-    _ Wire Transfer
+    - Wire Transfer
   tags:
     - Events
     - 3D
