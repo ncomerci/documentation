@@ -874,4 +874,31 @@
     - Architect
     - Consulting
     - Wearables
+    
+ - name: Parcel Party
+  partnerId: 45
+  default_link: https://www.parcelparty.io
+  website: https://www.parcelparty.io
+  email: griz@parcelparty.io
+  linkedin: https://www.linkedin.com/in/coreykovnats/
+  twitter: https://twitter.com/PARCELPARTIES
+  instagram: https://www.instagram.com/dclparcelparty
+  youtube: https://www.youtube.com/channel/UCB5R7YxY_qTHMzjg8rhjF7g
+  image: /images/partners/parcelparty.png
+  description: PARCEL PARTY is a full-service metaverse event & entertainment company, with the goal of turning your fantasies into metaverse realities. Combining our extensive knowledge, understanding, and passion for the metaverse with the integration of custom gamification elements into your events, we create unforgettable metaverse activations. We are a community-driven team of creatives and developers with a unified objective to take you from ideation through to execution, creating a truly unique experience that is true to your brand.
+  location: Canada
+  languages:
+    - English
+  team_size: Large Studio
+  payments:
+    - Crypto
+    - Wire
+    - Paypal
+    - Credit Card
+  tags:
+    - Wearables
+    - Architect
+    - 3D
+    - Consulting
+    - Land
 
