@@ -949,7 +949,7 @@
     - Wearables
     - Land
 - name: Clurge
-  partnerId: 9
+  partnerId: 8
   default_link: https://clurge.com/
   website: https://clurge.com/
   email: clurgedcl@gmail.com
@@ -968,4 +968,24 @@
   tags:
     - Wearables
 
+- name: MetaVerse Gainers
+  partnerId: 15
+  default_link: https://metaversegainers.com/
+  website: https://metaversegainers.com/
+  email: metaversegainers@gmail.com
+  twitter: https://twitter.com/Metaversegainer/
+  instagram: https://instagram.com/metaversegainers
+  image: /images/partners/metaverse-gainers.png
+  description: We are MetaVerse Gainers. Helping you to take benefits of Metaverse, specially Decentraland platform is our specialty.
+  location: Iran
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+  tags:
+    - Wearables
+    - Architect
+    - Land
+    - Consulting
 
