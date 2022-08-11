@@ -1010,3 +1010,25 @@
     - Events
     - Consulting
 
+- name: Decentral Wear
+  partnerId: 48
+  default_link: https://decentralwear.io/
+  website: https://decentralwear.io/
+  email: decentralandwearables@gmail.com
+  twitter: https://twitter.com/DecentralWear
+  discord: https://discord.gg/Q9ztapgEAA
+  linkedin: https://www.linkedin.com/in/matt-mcmillian-2a38b5240/
+  image: /images/partners/decentralwear.jpg
+  description: "We create Decentraland wearables for your metaverse brand. Wearable NFTs are quickly becoming the most profitable source of income for metaverse brands. Expose your brand to the widest possible audience with your brand's own wearables. Leave the difficult parts to our design team while we make your metaverse vision a reality."
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearables
+    - Architect
+    - Events
+    - Consulting
