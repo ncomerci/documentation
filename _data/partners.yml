@@ -100,7 +100,7 @@
 - name: Malloy
   partnerId: 5
   email: malloy@feekagames.com
-  discord: https://discord.gg/anhN4CpWZD
+  discord: https://discordapp.com/users/98130908720173056
   twitter: https://twitter.com/feekacafe
   image: /images/partners/malloy.png
   description: We Activate brands in the Metevarse and connect them to over 50,000 web3 and metaverse native users.
@@ -332,6 +332,7 @@
   website: https://comintedlabs.io/
   email: info@comintedlabs.io
   twitter: https://twitter.com/Comintedlabs
+  discord: https://discord.com/invite/9TaRkDV9Dm
   linkedin: https://www.linkedin.com/company/cominted-labs
   image: /images/partners/cominted-labs.png
   description: Cominted Labs is a metaverse studio building experiences in Decentraland. We are your partner from strategy to execution. Our world-class team of experts, designers, and developers will bring your vision to life in the metaverse!
@@ -354,6 +355,7 @@
   website: https://spacesdao.xyz/
   email: admin@spacesdao.xyz
   twitter: https://twitter.com/spacesdao
+  discord: https://discord.com/channels/917803198989860934/917803198989860936
   linkedin: https://www.linkedin.com/company/spacesdao/
   phone: +34683585943
   image: /images/partners/spaces.jpg
@@ -377,8 +379,8 @@
   email: rk@filmrare.com
   twitter: https://twitter.com/filmrareNFT
   linkedin: https://www.linkedin.com/company/filmrare/
-  discord: Natamai#2802
-  phone: +91-7477211984
+  discord: https://discordapp.com/users/908745988133519371
+  phone: +917477211984
   image: /images/partners/filmrare.png
   description: Filmrare is Decentraland´s longest-running cineplex and a venue with multiple screens and gallery floors backed by a DAO grant.
   location: India
@@ -398,7 +400,6 @@
   twitter: https://twitter.com/meta_archs
   instagram: https://www.instagram.com/meta_archs/
   linkedin: https://www.linkedin.com/company/metaarchs/
-  discord: Metaverse Architects
   youtube: https://www.youtube.com/channel/UCSyJdSHKMt_mobKzdKRLCew
   image: /images/partners/metaverse.architects.jpg
   description: Metaverse Architects is a 3D Modelling & Game Development studio for the Metaverse. We design and develop for Decentraland and all Metaverse worlds. Bringing your brand to the Virtual World in a playful and engaging way.
@@ -420,7 +421,7 @@
   partnerId: 25
   default_link: https://www.beatblox.org/
   website: https://www.beatblox.org/
-  phone: +54 1124089592
+  phone: +541124089592
   email: info@beatblox.org
   twitter: https://twitter.com/The_Beatblox
   instagram: https://www.instagram.com/thebeatblox/
@@ -450,7 +451,6 @@
   twitter: https://twitter.com/Threedium
   instagram: https://www.instagram.com/threedium3d/ 
   linkedin: https://www.linkedin.com/company/threedium
-  discord: https://discord.gg/89Vt4Ddg
   youtube: https://www.youtube.com/channel/UCO6WXEwHrtWHUzBxzvr3XdA
   image: /images/partners/threedium.jpg
   description: The all-in-one 3d/ar engine to build and launch immersive commerce experiences and phygital wearables across any digital, physical or metaverse channel at scale.
@@ -476,6 +476,7 @@
   email: miles@decentral.games
   twitter: https://twitter.com/0xmiles
   linkedin: https://www.linkedin.com/in/milesanthony760
+  discord: https://discord.com/invite/cvbSNzY
   image: /images/partners/miles.jpg
   description: Decentral Games builds ICE Poker, the first metaverse-native, play-and-own poker game that give players economic freedom through self-custody and delegation of wearables.
   location: British Virgin Islands
@@ -534,7 +535,7 @@
   partnerId: 30
   default_link: https://www.fireworksdesignstudio.com/
   website: https://www.fireworksdesignstudio.com/
-  discord: https://discord.gg/Kgvu4TJP
+  discord: https://discord.com/invite/fDSyCyHMxP
   twitter: https://twitter.com/KennyFireworks
   instagram: https://www.instagram.com/fireworks_design_studio/
   linkedin: https://www.linkedin.com/in/idr-kenny-yap-b8613536/
@@ -585,6 +586,7 @@
   twitter: https://twitter.com/michi_todd
   phone: +61433110043
   linkedin: https://www.linkedin.com/in/mitch-todd/
+  discord: https://discordapp.com/users/853943720746418187
   image: /images/partners/michi-todd.png
   description: Michi Todd is a Wearable Creator and 3d Artist bridging brands and traditional/digital artists and NFT projects through digital representation. Creating with imagination and fashion to make stylised metaverse designs.
   location: Australia
@@ -631,7 +633,7 @@
   website: https://doki3d.com/
   email: admin@doki3d.com
   twitter: https://twitter.com/Doki3D
-  discord: http://discord.gg/Doki#9529
+  discord: https://discordapp.com/users/347668553836789780
   instagram: https://Instagram.com/Doki3D
   youtube: https://www.youtube.com/channel/UCNDNe8IvNeLoHXDER_fe-xg
   sketchfab: https://sketchfab.com/Doki3D
@@ -696,7 +698,7 @@
   website: https://metalivestudio.com
   email: metalivestudio@gmail.com
   twitter: https://twitter.com/Metalivestudio
-  discord: https://discord.com/invite/metadogeatmetagamimall
+  discord: https://discord.com/invite/metalivestudio-series
   phone: +447579941539
   image: /images/partners/meta-live.jpeg
   description: Metaverse is place of possibilities, our services begins with your idea. Maybe you want to launch a business in Metaverses, but don’t know whcih Metaverse you want to be. Maybe you want some advice in land options. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.
@@ -729,7 +731,7 @@
   payments:
     - Crypto
     - PayPal
-    - Wire
+    - Wire Transfer
   tags:
     - Wearables
     - Events
@@ -806,7 +808,7 @@
   website: http://bndesigns.io/
   email: shaetobin@bndesigns.io
   twitter: https://twitter.com/bignastyeth
-  discord: https://discord.gg/r2FcqCaG
+  discord: https://discordapp.com/users/248268882920341514
   youtube: https://youTube.com/DCLTutor
   image: /images/partners/bignasty.jpeg
   description: We are a team of blender professionals that center around 3D modeling and Wearable NFT Designing. With 45+ collections published In Decentraland, we promise to always produce the highest quality items. Our 24/7 availability and rapid response times gives you the comfort of knowing we are always on call ready to jump into action. Working with BigNasty also gives YOU the ability to see real-time updates of your project, and allows you to be able to jump in and critique at any point during the process.
@@ -841,7 +843,7 @@
   payments:
     - Crypto
     - PayPal
-    - Wire
+    - Wire Transfer
   tags:
     - Events
     - 3D
@@ -906,6 +908,7 @@
   email: griz@parcelparty.io
   linkedin: https://www.linkedin.com/in/coreykovnats/
   twitter: https://twitter.com/PARCELPARTIES
+  discord: https://discord.gg/PBudsnmGuj
   instagram: https://www.instagram.com/dclparcelparty
   youtube: https://www.youtube.com/channel/UCB5R7YxY_qTHMzjg8rhjF7g
   image: /images/partners/parcelparty.png
@@ -916,7 +919,7 @@
   team_size: Large Studio
   payments:
     - Crypto
-    - Wire
+    - Wire Transfer
     - Paypal
     - Credit Card
   tags:
@@ -931,7 +934,7 @@
   default_link: sespromusic@gmail.com
   website: https://opensea.io/StoneyEye
   email: sespromusic@gmail.com
-  discord: StoneyEye#3965
+  discord: https://discordapp.com/users/808599870746394666
   twitter: https://twitter.com/@stoney_eye
   image: /images/partners/stoneyeye.png
   description: Stoney Eye Studios is here for your Live DJ needs. As well as artwork, such as full NFT projects or even just a flier design. We also do music production, wearables, and land rentals.
@@ -961,7 +964,7 @@
   team_size: Small Studio
   payments:
     - Crypto
-    - Wire
+    - Wire Transfer
   tags:
     - Wearables
 
