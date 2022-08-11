@@ -945,4 +945,24 @@
   tags:
     - Wearables
     - Land
+- name: Clurge
+  partnerId: 9
+  default_link: https://clurge.com/
+  website: https://clurge.com/
+  email: clurgedcl@gmail.com
+  twitter: https://twitter.com/ClurgeOfficial
+  instagram: https://www.instagram.com/clurge_official/
+  discord: https://discord.com/invite/QCdsP5YhvE
+  image: /images/partners/clurge.jpeg
+  description: Beautifully crafted Wearables & Bulk wearable airdrops, We are here to help your projects succeed and make your metaverse dream reality.
+  location: Singapore
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire
+  tags:
+    - Wearables
+
 
