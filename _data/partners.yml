@@ -1075,3 +1075,28 @@
     - Crypto
   tags:
     - Wearables    
+- name: OhMyVerse.io
+  partnerId: 51
+  default_link: https://ohmyverse.io/
+  website: https://ohmyverse.io/
+  email: info@ohmyverse.io
+  twitter: https://twitter.com/OhmyVerse
+  discord: https://discord.gg/3BMzfH686j
+  linkedin: https://www.linkedin.com/company/ohmyverse-io/
+  youtube: https://www.youtube.com/channel/UCVR7OGdEdNeP4s7HpiIeP9A
+  image: /images/partners/ohmyverse.JPG
+  description: Metaverse and blockchain development. Full coverage from smartcontract development to SDK coding and 3D designs including wearables and buildings.
+  location: Spain & Argentina
+  languages:
+    - English
+    - Spanish
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Wearables
+    - Architect
+    - Land
+    - Event
+    - Consulting
