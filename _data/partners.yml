@@ -1100,3 +1100,21 @@
     - Land
     - Events
     - Consulting
+- name: SynthiaNominae
+  partnerId: 52
+  default_link: https://opensea.io/accounts/0x2e882c468cc32f8a852a16bfd610ee7317ed4534
+  opensea: https://opensea.io/accounts/0x2e882c468cc32f8a852a16bfd610ee7317ed4534
+  email: synthianominae@gmail.com
+  twitter: https://twitter.com/SynthiaNominae?t=Hmrm50u9hHFKqPq8DHHmAA&s=09
+  youtube: https://youtube.com/c/SynthiaNominae
+  image: /images/partners/synthianominae.PNG
+  description: Helping others find and follow their inner light.
+  location: United Stated
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearables
