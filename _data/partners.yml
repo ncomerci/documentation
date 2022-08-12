@@ -885,13 +885,14 @@
   youtube: https://www.youtube.com/channel/UCz-g69qhfHOV2Zuy7xgLiIw
   phone: +34608509213
   image: /images/partners/oktopluz.png
-  description: If you can imagine, we can do it. If you can't, we imagine and build it for you.
+  description: If you can imagine, we can do it. If you can't, we imagine and build it for you. Oktopluz is an art studio with a multidisciplinary and very experienced team. From the analog art days till the latest tech of tomorrow. We are capable of giving shape and color to ideas for real or virtual life. Design and implementation for Architecture, Avatars, Wearables, Experiences and Events.
   location: Spain
   languages:
     - English
     - Spain
     - Portuguese
-  team_size: Small Studio
+    - Italian
+  team_size: Medium Studio
   payments:
     - Crypto
     - Wire Transfer
@@ -900,6 +901,8 @@
     - Architect
     - Consulting
     - Wearables
+    - Events
+    - Land
     
 - name: Parcel Party
   partnerId: 45
