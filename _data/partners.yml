@@ -1121,3 +1121,23 @@
     - PayPal
   tags:
     - Wearables
+    
+- name: VoxBox.dev
+  partnerId: 53
+  default_link: https://www.voxbox.dev/
+  website: https://www.voxbox.dev/
+  email: daniel@voxbox.dev
+  instagram: https://www.instagram.com/daniel.d.arch
+  twitter: https://twitter.com/VoxBox_Official
+  image: /images/partners/voxbox.png
+  description: YOUR MULTIVERSE DEVELOPERS-Custom 3D spaces, items and wearables built for unique cross-platform experiences.
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearables
+    - Architect
