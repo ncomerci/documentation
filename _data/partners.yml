@@ -1033,3 +1033,25 @@
     - Architect
     - Events
     - Consulting
+- name: Bufalo
+  partnerId: 49
+  default_link: https://linktr.ee/bufalomusic
+  website: https://linktr.ee/bufalomusic
+  email: bufaloiam@gmail.com
+  twitter: https://twitter.com/bufalomusic
+  discord: https://discord.com/invite/SXKJhyXT5D
+  instagram: https://www.instagram.com/bufalomusic/
+  youtube: https://www.youtube.com/channel/UCyj9_2CyQ-qWn9uwNqKRDaQ
+  image: /images/partners/bufalo.jpg
+  description: Bufalo is a masked DJ and producer from Paris who has created a really strong and singular universe inspired by the "Far West" culture, mixing Country, Folk, Deep House, and House to create a new genre called "Futuristic Western Music" The DJ set made by Bufalo is a fully-produced DJ set that contains self madeedits, remixes, compositions, and mashups that have never been done or heard before.
+  location: France
+  languages:
+    - English
+    - French
+  team_size: individual
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Wearables
+    - Events
