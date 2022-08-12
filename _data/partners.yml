@@ -1056,3 +1056,22 @@
   tags:
     - Wearables
     - Events
+- name: Metatiger
+  partnerId: 50
+  default_link: https://metatiger.art/
+  website: https://metatiger.art/
+  email: metatiger@metatiger.art
+  twitter: https://twitter.com/DCLMETATIGER
+  discord: https://discord.gg/4JaBvvcEEX
+  youtube: https://www.youtube.com/channel/UCuvPIU18xRGlo7XfNYaoYBQ
+  image: /images/partners/metatiger.png
+  description: Indie Gamedev, Coder, 3D Artist, Wearable Creator, NFT Coin Art Designer, Decentraland Native / Homie.
+  location: Germany
+  languages:
+    - English
+    - German
+  team_size: individual
+  payments:
+    - Crypto
+  tags:
+    - Wearables    
