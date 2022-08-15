@@ -1141,3 +1141,46 @@
   tags:
     - Wearables
     - Architect
+    
+- name: ulisse.nobody
+  partnerId: 54
+  default_link: https://ulissenobody47.wixsite.com/gamedeveloper
+  website: https://ulissenobody47.wixsite.com/gamedeveloper
+  email: francescopalmadev@gmail.com
+  instagram: https://www.instagram.com/ulisse.nobody/
+  twitter: https://twitter.com/NobodyUlisse
+  linkedin: https://www.linkedin.com/in/francesco-palma-9a349620b/
+  discord:  https://discordapp.com/users/903659142995136532
+  image: /images/partners/ulisse-nobody.png
+  description: If you have something in your mind, I can extract that idea and turn it into an amazing expirience in the metaverse. With the knoledge accumulated in my fine art study for videogames; your parcel will host something complitly different from the majority.
+  location: Spain
+  languages:
+    - English
+    - Spanish
+    - Italian
+  team_size: Individual
+  payments:
+    - Crypto
+    - Credit Card
+  tags:
+    - Architect
+    - Gaming
+    
+- name: Nikki Fuego
+  partnerId: 55
+  default_link: https://twitter.com/NikkiFuego92
+  website: https://market.decentraland.org/accounts/0x4317036d2cb249e3e4b847164674b7d27c33442b?assetType=item&section=wearables
+  email: nikkifuegodragqueen@gmail.com
+  instagram: https://www.instagram.com/nikkifuegodragqueen/
+  twitter: https://twitter.com/NikkiFuego92
+  discord:  https://discordapp.com/users/185198280660090891
+  image: /images/partners/nikki-fuego.png
+  description: Bridging innovation and creativity with uniquely crafted designs.
+  location: United States
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+  tags:
+    - Wearables
