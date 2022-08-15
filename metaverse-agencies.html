@@ -33,6 +33,38 @@
     </table>
 
     <h1>Verified Partners</h1>
+    <h4>Service</h4>
+    <input type="checkbox" id="service-wearables" /> Wearables <br/>
+    <input type="checkbox" id="service-architect" /> Architect <br/>
+    <input type="checkbox" id="service-events" /> Event Production <br/>
+    <input type="checkbox" id="service-consulting" /> Consulting <br/>
+    <input type="checkbox" id="service-rental" /> Land Rental <br/>
+    <hr />
+    <h4>Region</h4>
+    <input type="checkbox" id="region-usa" /> North America <br/>
+    <input type="checkbox" id="region-latam" /> Latin America <br/>
+    <input type="checkbox" id="region-europe" /> Europe <br/>
+    <input type="checkbox" id="region-asia" /> Asia <br/>
+    <hr />
+    <h4>Language</h4>
+    <input type="checkbox" id="language-english" /> English <br/>
+    <input type="checkbox" id="language-spanish" /> Spanish <br/>
+    <input type="checkbox" id="language-german" /> German <br/>
+    <input type="checkbox" id="language-french" /> French <br/>
+    <input type="checkbox" id="language-chinese" /> Chinese <br/>
+    <input type="checkbox" id="language-hindi" /> Hindi <br/>
+    <hr />
+    <h4>Payment</h4>
+    <input type="checkbox" id="payment-wire" /> Bank Wire <br/>
+    <input type="checkbox" id="payment-crypto" /> Crypto <br/>
+    <input type="checkbox" id="payment-paypal" /> Paypal <br/>
+    <input type="checkbox" id="payment-card" /> Credit Card <br/>
+    <hr />
+    <button>Clear</button> <button>Apply</button>
+
+    
+
+
     {% assign spartners = site.data.partners | sort: 'name' %}
     {% for partner in spartners %}
       <div class="providerContainer">
