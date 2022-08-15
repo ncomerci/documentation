@@ -1184,3 +1184,29 @@
     - Crypto
   tags:
     - Wearables
+    
+- name: STYLE Protocol
+  partnerId: 56
+  default_link: https://www.protocol.style
+  website: https://www.protocol.style
+  email: leo.hilse@protocol.style
+  linkedin: https://www.linkedin.com/in/leo-hilse/
+  discord: https://discord.com/invite/styleprotocol
+  twitter: https://twitter.com/StyleProtocol
+  image: /images/partners/style-protocol.png
+  description: STYLE Protocol aims to bring monetization and utilization to any NFT in any game or metaverse to use and sublicense in order to allow true interoperability of virtual assets across metaverses, games and digital worlds.
+  location: Switzerland
+  languages:
+    - English
+  team_size: Large Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+    - Wire Transfer
+  tags:
+    - Wearables
+    - Architect
+    - Land Rental
+    - Events
+    - Consulting
