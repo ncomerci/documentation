@@ -1168,7 +1168,7 @@
   twitter: https://twitter.com/NikkiFuego92
   discord:  https://discordapp.com/users/185198280660090891
   image: /images/partners/nikki-fuego.png
-  description: Bridging innovation and creativity with uniquely crafted designs.
+  description: Nikki Fuego is a Drag Queen Wearable Creator. She creates futuristic and fashion forward designs ranging from fantasy to practical functions. Nikki has made a wearable for every category available, but really enjoys making Skins. She is also known for making vehicles in Decentraland. She is the Founder and Project Manager for Vroomway! A racing Play 2 Earn game in Decentraland.
   location: United States
   languages:
     - English
@@ -1201,5 +1201,30 @@
     - Wearables
     - Architect
     - Land Rental
+    - Events
+    - Consulting
+
+- name: Imagine to Create
+  partnerId: 57
+  default_link: https://www.imaginetocreate.com/
+  website: https://www.imaginetocreate.com/
+  email: founders@imaginetocreate.com
+  linkedin: https://www.linkedin.com/in/unai-da-silva-merino/
+  discord: https://discordapp.com/users/749691427776233563
+  twitter: https://twitter.com/UDecentraland
+  youtube: https://www.youtube.com/channel/UCSwao_El6FKE9q0-XU5fg9Q
+  image: /images/partners/imagine-to-create.png
+  description: Imagine to Create is a community of creators and investors that together they launch new projects. The experience will happen through a web3 platform governed by a DAO deployed first in the Elrond blockchain. The project virtual HQ will be deployed in Decentraland.
+  location: Spain
+  languages:
+    - English
+    - Spanish
+    - German
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Credit Card
+  tags:
+    - Architect
     - Events
     - Consulting
