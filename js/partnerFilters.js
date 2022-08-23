@@ -114,12 +114,12 @@ function applyUrlFilters(checkboxesByCategory, $filter, $partnerCards) {
       delete selection[urlCategory]
     }
 
-    const $checkbox = checkboxesByCategory[urlCategory][values[0]]
+    const $checkbox = Object.values(checkboxesByCategory[urlCategory])[0]
 
-    if ($checkbox) {
-      const $checkCounter = $checkbox.closest(".item").find(".checks")
-      $checkCounter.text(values.length)
-    }
+    const $checkCounter = $checkbox.closest(".item").find(".checks")
+    $checkCounter.text(
+      selection[urlCategory] ? selection[urlCategory].size : ""
+    )
   }
   filterOptions.selection = selection
   applyFilters($filter, $partnerCards)
