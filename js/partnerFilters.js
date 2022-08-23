@@ -56,6 +56,75 @@ function handleCheckboxSectionClick(checkbox) {
   handleCheckboxClick(checkbox)
 }
 
+function getCheckboxesByCategory($checkboxes) {
+  const checkboxBy = {}
+  $checkboxes.each((_, elem) => {
+    const $elem = $(elem)
+    const category = $elem.data("category")
+    const value = $elem.data("value")
+    if (!checkboxBy[category]) {
+      checkboxBy[category] = {}
+    }
+    checkboxBy[category][value] = $elem
+  })
+
+  return checkboxBy
+}
+
+function addUrlFilters() {
+  let urlFilters = "?"
+  Object.entries(filterOptions.selection).forEach(([category, values], idx) => {
+    if (idx > 0) {
+      urlFilters = urlFilters.concat("&")
+    }
+    urlFilters = urlFilters.concat(
+      `${category}=${Array.from(values).join(",")}`
+    )
+  })
+
+  window.history.pushState(
+    {},
+    document.title,
+    urlFilters !== "?" ? urlFilters : window.location.pathname
+  )
+}
+
+function applyUrlFilters(checkboxesByCategory, $filter, $partnerCards) {
+  const urlFilters = new URLSearchParams(window.location.search)
+  const urlCategories = urlFilters.keys()
+  const categories = new Set(Object.keys(checkboxesByCategory))
+  const selection = {}
+  for (const urlCategory of urlCategories) {
+    if (!categories.has(urlCategory)) {
+      continue
+    }
+
+    const values = urlFilters.getAll(urlCategory)[0].split(",")
+    selection[urlCategory] = new Set()
+
+    for (const value of values) {
+      const $checkbox = checkboxesByCategory[urlCategory][value]
+      if ($checkbox) {
+        $checkbox.prop("checked", true)
+        selection[urlCategory].add(value)
+      }
+    }
+
+    if (selection[urlCategory].size == 0) {
+      delete selection[urlCategory]
+    }
+
+    const $checkbox = checkboxesByCategory[urlCategory][values[0]]
+
+    if ($checkbox) {
+      const $checkCounter = $checkbox.closest(".item").find(".checks")
+      $checkCounter.text(values.length)
+    }
+  }
+  filterOptions.selection = selection
+  applyFilters($filter, $partnerCards)
+}
+
 function applyFilters($filter, $partnerCards) {
   const categories = Object.keys(filterOptions.selection)
 

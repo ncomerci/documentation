@@ -231,35 +231,39 @@
   })
   $(".ui.accordion").accordion()
 
-  const FILTER = $(".ui.dropdown.filter")
-  const CHECKBOXS = $(".ui.dropdown.filter .field input")
-  const PARTNER_CARDS = $(".providerContainer")
-  const CHECK_COUNTERS = $(".ui.dropdown.filter .info > .checks")
+  const $FILTER = $(".ui.dropdown.filter")
+  const $CHECKBOXES = $(".ui.dropdown.filter .field input")
+  const $PARTNER_CARDS = $(".providerContainer")
+  const $CHECK_COUNTERS = $(".ui.dropdown.filter .info > .checks")
 
-  CHECKBOXS.on('click', ({ target }) => {
+  const CHECKBOXES_BY_CATEGORY = getCheckboxesByCategory($CHECKBOXES)
+
+  applyUrlFilters(CHECKBOXES_BY_CATEGORY, $FILTER, $PARTNER_CARDS)
+
+  $CHECKBOXES.on('click', ({ target }) => {
     handleCheckboxClick($(target))
   })
-
+  
   $(document).on("click", ({ target }) => {
     const $target = $(target)
     const isIconSelected = $target.is(".ui.dropdown.filter > .dropdown.icon")
     const isDropdownSelected = $target.is(".ui.dropdown.filter")
     const isDropdownChildSelected = $target.is(".ui.dropdown.filter *")
     const isDropdownVisible =
-      FILTER.hasClass("visible") &&
-      FILTER.hasClass("active")
+      $FILTER.hasClass("visible") &&
+      $FILTER.hasClass("active")
     const isCheckboxSectionSelected =
       $target.is(".ui.dropdown.filter .field") ||
       $target.is(".ui.dropdown.filter .field *")
 
     if (isIconSelected || isDropdownSelected) {
       if (isDropdownVisible) {
-        hideDropdown(FILTER)
+        hideDropdown($FILTER)
       } else {
         setIsDropdownHideable(false)
       }
     } else if (!isDropdownChildSelected) {
-      hideDropdown(FILTER)
+      hideDropdown($FILTER)
     }
 
     if (isCheckboxSectionSelected) {
@@ -272,6 +276,14 @@
     }
   })
 
-  $("#applyButton").unbind().click(() => applyFilters(FILTER, PARTNER_CARDS))
-  $("#clearButton").unbind().click(() => clearFilters(CHECKBOXS, CHECK_COUNTERS))
+  $("#applyButton").unbind().click(() => {
+    addUrlFilters()
+    applyFilters($FILTER, $PARTNER_CARDS)
+  })
+  $("#clearButton").unbind().click(() => clearFilters($CHECKBOXES, $CHECK_COUNTERS))
+
+  window.addEventListener('popstate', () => {
+    clearFilters($CHECKBOXES, $CHECK_COUNTERS)
+    applyUrlFilters(CHECKBOXES_BY_CATEGORY, $FILTER, $PARTNER_CARDS)
+  })
 </script>
