@@ -317,7 +317,7 @@
   tags:
     - Wearable Design
     - Architecture
-    - Event Production 
+    - Event Production
     - Land Rental
     - Consulting
 - name: MixedBag
@@ -333,7 +333,7 @@
   tags:
     - Wearable Design
     - Architecture
-    - Event Production 
+    - Event Production
     - Consulting
 - name: Cominted Labs
   partnerId: 21
@@ -357,7 +357,7 @@
   tags:
     - Wearable Design
     - Architecture
-    - Event Production 
+    - Event Production
     - Consulting
 - name: SpacesDAO
   partnerId: 22
@@ -427,7 +427,7 @@
   tags:
     - Wearable Design
     - Architecture
-    - Event Production 
+    - Event Production
     - Consulting
     - Land Rental
 - name: BeatBlox Studio & Music District
@@ -453,7 +453,7 @@
     - Crypto
   tags:
     - Architecture
-    - Event Production 
+    - Event Production
     - Consulting
     - Land Rental
 - name: Threedium
@@ -481,7 +481,7 @@
     - Wire Transfer
   tags:
     - Wearable Design
-    - Architecture 
+    - Architecture
     - Consulting
     - Land Rental
 - name: Decentral Games
@@ -501,7 +501,7 @@
     - English
   tags:
     - Wearable Design
-    - Event Production 
+    - Event Production
     - Land Rental
   payments:
     - Crypto
@@ -595,7 +595,7 @@
   tags:
     - Wearable Design
     - Architecture
-    - Event Production 
+    - Event Production
     - Land Rental
     - Consulting
 - name: Michi Todd
@@ -647,7 +647,7 @@
   tags:
     - Wearable Design
     - Architecture
-    - Event Production 
+    - Event Production
     - Consulting
 - name: Doki
   partnerId: 34
@@ -780,7 +780,7 @@
   location: Singapore
   region: Asia
   languages:
-    - English 
+    - English
   team_size: Medium Studio
   payments:
     - Crypto
@@ -798,7 +798,7 @@
   region: Europe
   phone: +306980676729
   languages:
-    - English 
+    - English
     - Hebrew
   team_size: Small Studio
   payments:
@@ -821,7 +821,7 @@
   location: Turkey
   region: Europe
   languages:
-    - English 
+    - English
     - Turkish
   team_size: Medium Studio
   payments:
@@ -844,7 +844,7 @@
   location: United States
   region: North America
   languages:
-    - English 
+    - English
   team_size: Small Studio
   payments:
     - Crypto
@@ -868,7 +868,7 @@
   location: India
   region: Asia
   languages:
-    - English 
+    - English
     - Hindi
   team_size: Medium Studio
   payments:
@@ -1089,7 +1089,7 @@
   languages:
     - English
     - French
-  team_size: individual
+  team_size: Individual
   payments:
     - Crypto
     - Wire Transfer
@@ -1115,7 +1115,7 @@
   payments:
     - Crypto
   tags:
-    - Wearable Design    
+    - Wearable Design
 - name: OhMyVerse.io
   partnerId: 51
   default_link: https://ohmyverse.io/
@@ -1615,7 +1615,7 @@
   location: India
   languages:
     - English
-  team_size: Small Team
+  team_size: Small Studio
   payments:
     - Crypto
     - Wire Transfer
@@ -1642,7 +1642,7 @@
   location: Brazil
   languages:
     - English
-  team_size: Large Team
+  team_size: Large Studio
   payments:
     - Wire Transfer
   tags:
@@ -1690,7 +1690,7 @@
   location: United States
   languages:
     - English
-  team_size: Small Team
+  team_size: Small Studio
   payments:
     - Crypto
   tags:
@@ -1713,7 +1713,7 @@
   location: United States
   languages:
     - English
-  team_size: Small Team
+  team_size: Small Studio
   payments:
     - Crypto
   tags:
