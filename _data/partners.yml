@@ -1030,8 +1030,8 @@
   partnerId: 47
   default_link: https://www.serraform.com
   website: https://www.serraform.com
-  email: justen@serraform.com
-  twitter: 
+  email: contact@serraform.com
+  twitter: https://twitter.com/Serraform4
   instagram: 
   image: /images/partners/serraform.png
   description: Serraform specializes in content streaming and creative productions for event of all shapes and sizes. We are experts in cloud infrastructure, data analytics, web3, and cybersecurity and have worked with several fortune 500 companies to help launch their brands and products into the metaverse.
@@ -1311,7 +1311,7 @@
   instagram: https://www.instagram.com/iam_judasjudas/
   twitter: https://twitter.com/iamjudasjudas
   image: /images/partners/judasjudas.png
-  description: …a creative journey into the Metaverse…
+  description: "Self proclaimed Decentraland Citizen and off beat builder of Event Spaces, Galleries and Wearables since April 2020. Previous projects include Space Mountain - SpaceShibas NFT,  TRU Band Room - The Rocking UniqueHorns, Pranksy' Place - ART/DAI. Having fun mainly! YOLO!"
   region: Europe
   location: United Kingdom
   languages:
@@ -1697,7 +1697,7 @@
     - Wearable Design
     - Architecture
   pois:
-- name: Kokesmvsh
+- name: Smvsh Friends
   partnerId: 74
   default_link: https://smvshfriends.com/
   website: https://smvshfriends.com/
@@ -1721,4 +1721,600 @@
     - Architecture
     - Event Production
   pois:
-    - (-55, -127)
+    - (-55,-127)
+- name: M-Social
+  partnerId: 75
+  default_link: https://msocialproduction.com/
+  website: https://msocialproduction.com/
+  email: e.kuzin@msocialproduction.com
+  discord: https://discordapp.com/users/951755181933072485
+  image: /images/partners/msocial.JPG
+  description: M-Social is a company that develops web and metaverse projects. We have an extensive experience in developing of promotional projects, as well as service and game-projects of varied difficulty.
+  region: Russia
+  location: Bryansk
+  languages:
+    - English
+  team_size: Medium Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Wearable Design
+    - Architecture
+  pois:
+- name: Seed Events
+  partnerId: 76
+  default_link: Opensea.io/collection/psyriiis
+  email: mattimus5460@gmail.com
+  discord: https://discord.gg/WMWMKdhD5r
+  twitter: https://twitter.com/psyriiis
+  image: /images/partners/seed.events.JPG
+  opensea: Opensea.io/collection/psyriiis
+  description: Seed Events is a full suite production company for metaverse, IRL and hybrid events. We specialize in sdk development, live streaming solutions and interactive build features. Anything you can conceive, we can build.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Wire Transfer
+  tags:
+    - Event Production
+    - Architecture
+  pois:
+    - (-16, -111)
+- name: Meta Fashion House
+  partnerId: 77
+  default_link: https://linktr.ee/NFTcreatortours
+  website: https://www.nftcreatortours.com/
+  email: astrid@NFTcreatortours.com
+  discord: https://discord.gg/GeyzWYqn
+  linkedin: https://www.linkedin.com/in/astridpilla/
+  instagram: https://www.instagram.com/metafashionhousedcl/
+  twitter: https://mobile.twitter.com/metafashionh
+  youtube: https://vimeo.com/channels/metafashionhouse
+  image: /images/partners/metafashionhouse.png
+  parcels: https://play.decentraland.org/?island=I1o6k7&position=-118%2C91&realm=dg
+  description: Meta Fashion House can help your brand enter the Metaverse with ease, in style and with the assurance that everything will be taken care of from planning, helping your customers and collectors understand the process, strategic launches, NFT minting, high-end digital wearable production, token-gating, livestreaming, metaverse launch parties, press, and promotion. Work with a production house that has the connections you need for a successful event. Helped our client win Best Digital Experience by Glossier, 2022.
+  region: North America
+  location: United States
+  languages:
+    - English
+    - French
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Event Production
+    - Architecture
+    - Wearable Design
+    - Consulting
+  pois:
+    - (-118,90)
+    
+- name: Offcollection
+  partnerId: 78
+  default_link: https://www.athenjakusz.com/
+  website: https://www.athenjakusz.com/
+  email: athenjakusz@gmail.com
+  discord: https://discordapp.com/users/481970359621386250
+  twitter: https://twitter.com/offcollection
+  image: /images/partners/athenjakusz.PNG
+  description: Modeling the Metaverse, Player Features, Accessories, and Skins.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearable Design
+    
+- name: MEA
+  partnerId: 79
+  default_link: https://www.we-are-mea.com
+  website: https://www.we-are-mea.com
+  email: hello@we-are-mea.com
+  linkedin: https://www.linkedin.com/company/2853627/
+  twitter: https://twitter.com/meaAdmin
+  image: /images/partners/MEA.png
+  description: MEA is a software development company founded in 2010. Metaverse services include VR site creation, wearables development and digital marketing. Visit our latest project, Carbon Coffee at 15,61 Decentraland.  MEA has developed and released hundreds of projects with millions of users all around the world.  We focus on frictionless end to end experiences, which make it easy for customers to interact with digital spaces. Our team of 30 digital artisans is based in Auckland New Zealand delivering true value through beautiful code.  Our skills include React, Javascript, Typescript, Objective C, as well as most popular CMS systems and frameworks including Laravel, Next.js and more.  MEA is AWS Certified.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+  tags:
+    - Wearable Design 
+    - Architecture
+    - Consulting
+  pois:
+    - (15,61)
+      
+- name: x1 Designs
+  partnerId: 80
+  default_link: https://linktr.ee/x1over
+  website: https://linktr.ee/x1over
+  email: cfise7@gmail.com
+  linkedin: https://www.linkedin.com/company/2853627/
+  twitter: https://twitter.com/x1over
+  youtube: https://www.youtube.com/channel/UC3DKuvBhFExUXyE8wbr4Y2A
+  discord: https://discord.com/invite/ENtJezzfFd
+  opensea: https://opensea.io/x1over
+  image: /images/partners/x1over.png
+  description: x1 Designs Experienced in 3D modeling, Texturing, Rigging, and Animation. Guides every step of the way until approval!
+  region: Asia
+  location: Israel
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+  tags:
+    - Wearable Design 
+    
+- name: Petrichor Arch Studio
+  partnerId: 81
+  default_link: https://twitter.com/Lingxing_DCL
+  email: petrichorstudioid@gmail.com
+  instagram: https://www.instagram.com/petrichorarchstudio/?hl=en
+  twitter: https://twitter.com/Lingxing_DCL
+  opensea: https://opensea.io/Lingxing
+  image: /images/partners/petrichorarchstudio.png
+  description: Petrichor Arch Studio is a 3D design studio that can help you create 3D models and 3D wearables with great detail on shape, texture and aesthetics.
+  region: Asia
+  location: Indonesia
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearable Design
+
+- name: Darko Studio
+  partnerId: 82
+  default_link: https://www.instagram.com/tonydarko.eth/
+  email: tonydarko.ventas@gmail.com
+  instagram: https://www.instagram.com/tonydarko.eth/
+  twitter: https://twitter.com/TonyDarko_eth
+  discord: https://discordapp.com/users/809129959367901242
+  youtube: https://www.youtube.com/channel/UCqRH7S2eJmTftu0Z5amD1Ag
+  image: /images/partners/darko-studio.png
+  description: Darko studio is a mexican animation studio focused on Decentraland, wearable design, SDK builder, Vtubing and experience designs.
+  region: South America
+  location: Mexico
+  languages:
+    - English
+    - Spanish
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Credit Card
+  tags:
+    - Wearable Design
+    - Architecture
+- name: Chestnutbruze
+  partnerId: 83
+  default_link: https://twitter.com/Sevalla_Art
+  email: sebastianvalla@hotmail.com
+  twitter: https://twitter.com/Sevalla_Art
+  discord: https://discordapp.com/users/275695757414367234
+  sketchfab: https://sketchfab.com/sebastianvalla
+  image: /images/partners/chestnutbruze.png
+  description: 3D Art and Animation.
+  region: Europe
+  location: Norway
+  languages:
+    - English
+    - Spanish
+  team_size: Individual
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Wearable Design
+    - Architecture
+    
+- name: Marc-O-Matic
+  partnerId: 84
+  default_link: https://marcomatic.com/
+  website: https://marcomatic.com/
+  email: studio@marcomatic.com
+  twitter: https://twitter.com/marc0matic
+  youtube: https://www.youtube.com/marc-o-matic
+  opensea: https://opensea.io/marc-o-matic
+  linkedin: https://www.linkedin.com/in/marc0matic/
+  instagram: https://www.instagram.com/marcomatic/
+  image: /images/partners/marc-o-matic.png
+  description: Marc-O-Matic is a Multidisciplinary Creator across AR/VR & Immersive Tech. His unique style focuses on an intersection of Analogue Art & Digital Media, creating highly unique content and experiences.
+  region: Oceania
+  location: Australia
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearable Design
+    - Architecture
+    - Event Production
+
+- name: VIRTEWEL
+  partnerId: 85
+  default_link: https://www.virtewel.com/
+  website: https://www.virtewel.com/
+  email: design@virtewel.com
+  twitter: https://twitter.com/virtewel
+  youtube: https://www.youtube.com/channel/UCYFltkM2qrRHbajQUSd1psA
+  instagram: https://www.instagram.com/virtewel/
+  discord: https://discordapp.com/users/936725669633740870
+  image: /images/partners/virtewel.png
+  description: Creators of virtual jewelry, buildings, and experiences.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+    - Wire Transfer
+  tags:
+    - Wearable Design
+    - Architecture
+    - Event Production
+    - Consulting
+
+- name: Misprint
+  partnerId: 86
+  default_link: http://misprint.store
+  website: http://misprint.store
+  email: info@misprint.store
+  twitter: https://twitter.com/misprint_
+  instagram: https://www.instagram.com/misprint/
+  sketchfab: https://sketchfab.com/nashruckman
+  opensea: https://opensea.io/MisprintOfficial
+  discord: https://discord.gg/7YV887QMMx
+  image: /images/partners/misprint.png
+  description: Misprint is a multi-disciplinary creative studio with a focus on metaverse development in Decentraland.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Credit Card
+  pois:
+    - (-143,-36)
+  tags:
+    - Wearable Design
+    - Architecture
+    - Event Production
+    - Consulting
+    - Land Rental
+    
+- name: WonderZone
+  partnerId: 87
+  default_link: https://wondermine.wonderzone.io/e
+  website: https://wondermine.wonderzone.io/
+  email: wonderzonegames@gmail.com
+  twitter: https://twitter.com/wonderzonegames
+  opensea: https://opensea.io/collection/wonderzonegames
+  discord: https://discord.gg/VvRyW5dchw
+  image: /images/partners/wonderzone.jpeg
+  description: We are a full stack team creating Web3 experiences and games.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+  tags:
+    - Wearable Design
+    - Architecture
+    - Event Production
+    - Consulting
+    - Land Rental
+
+- name: Rizk Ghazaly
+  partnerId: 88
+  default_link: https://www.metarizk.net
+  website: https://www.metarizk.net
+  email: rizkghazaly@hotmail.com
+  twitter: https://twitter.com/Rizkgh
+  instagram: https://www.instagram.com/rizk.ghazaly/
+  opensea: https://opensea.io/Rizk-Ghazaly
+  discord: https://discordapp.com/users/572677665115340801
+  youtube: https://www.youtube.com/channel/UCrIceUut8nFiL-AReB9cfjw/videos
+  image: /images/partners/metarizk.png
+  description: As an architect leading this architecture studio, designing and creating spaces in Decentraland since early 2019, having a wide experience in designing NFT galleries, stores, and headquarters for companies and brands. I can offer customized 3d architecture for your space, beside leading you in the metaverse from A to Z to reach your goal. Brands I helped ( RealMissNFT, Goatz, Bitski Shop, Lottie London, Guilded Gamers, Rarepape, Relms, Mad.xyz ) Rizk Ghazaly studio is the official Architect of (District X) on of the biggest Districts in Decentraland.
+  region: Central America
+  location: Costa Rica
+  languages:
+    - English
+    - Spanish
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - PayPal
+  pois:
+    - (-74,53) 
+    - (-76,58) 
+    - (-85,60)
+    - (65,75)
+    - (43,-124)
+    - (-23,69)
+    - (32,-95)
+  tags:
+    - Architecture
+    - Event Production
+    - Consulting
+    - Land Rental
+
+- name: DeFi Drip
+  partnerId: 89
+  website: https://linktr.ee/defidrip
+  default_link: https://linktr.ee/defidrip
+  email: defidripdcl@gmail.com
+  twitter: https://twitter.com/DefiDripDCL?s=20&t=KV45rYnR252J9xlpaX6O2g
+  discord: https://discord.gg/ZZhkcWkKER
+  image: /images/partners/defi-drip.JPG
+  description: "Creating 3D wearables which connects and expresses digital identity in the #Metaverse through innovative design and quality workmanship."
+  region: Europe
+  location: Netherlands
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+  pois:
+  tags:
+    - Architecture
+    - Event Production
+    - Wearable Design
+
+- name: PolyGraph
+  partnerId: 90
+  website: https://polygraphdcl.io/
+  default_link: https://polygraphdcl.io/
+  email: gtrfrost@gmail.com
+  linkedin: https://www.linkedin.com/in/grant-ryan-686056145/
+  twitter: https://twitter.com/gtrfrost
+  instagram: https://www.instagram.com/polygraphdcl/
+  youtube: https://www.youtube.com/channel/UCoTwlIzbfhQz-SPdkpxg-1w
+  discord: https://discordapp.com/users/317680953432735744
+  image: /images/partners/polygraph.png
+  description: Building a better tomorrow, today!
+  region: Oceania
+  location: Australia
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+  pois:
+  tags:
+    - Architecture
+    - Land Rental
+
+- name: Versepective Architecture
+  partnerId: 91
+  website: https://www.versepective.com/
+  default_link: https://www.versepective.com/
+  email: gtrfrost@gmail.com
+  instagram: https://www.instagram.com/versepective.arch/
+  discord: https://discord.io/Versepective-Architecture
+  image: /images/partners/versepectivearchitecture.jpg
+  description: Versepective Architecture is a professional 3D architecture studio committed to involving the user as part of the creative process. They have been working on DCL since 2020, helping brands and users to discover and develop a place in the Metaverse, thanks to their complete knowledge of the DCL environment. Headquarters Buildings, Art Galleries, Houses, Pavilions, recreations of real spaces, are part of their required work. In addition to creating scenes for individual users, they have collaborated with brands like Assouline, Bored Vibes, DCL Foundation Crypto Valley District, MM Finance, and more... focused on providing personalized services and beautiful designs.
+  region: South America
+  location: Argentina
+  languages:
+    - English
+    - Spanish
+  team_size: Individual
+  payments:
+    - Crypto
+  pois:
+  tags:
+    - Architecture
+
+- name: ina
+  partnerId: 92
+  default_link: https://twitter.com/ina_dcl
+  email: ignaciodelcano@gmail.comm
+  twitter: https://twitter.com/ina_dcl
+  image: /images/partners/ina.png
+  description: A freelance and player interested in the developing the metaverse.
+  region: Europe
+  location: Spain
+  languages:
+    - English
+    - Spanish
+  team_size: Individual
+  payments:
+    - Crypto
+  pois:
+    - (144,-35)
+  tags:
+    - Architecture
+    - Event Production
+    - Consulting
+
+- name: Songbird Collective
+  partnerId: 93
+  default_link: https://songbirdcoagency.com/
+  website: https://songbirdcoagency.com/
+  email: jdominguez@songbirdcoagency.com
+  linkedin: https://www.linkedin.com/in/john-dominguez-a236ab47/
+  twitter: https://twitter.com/DhiDominguez
+  instagram: https://www.instagram.com/dhinodhi/
+  discord: https://discordapp.com/users/684141129662595089
+  image: /images/partners/songbird.png
+  description: The Songbird Collective is a group of experienced creatives, producing high-quality content across multiple platforms, including Decentraland (DCL). Our mission is to develop and deliver strategic marketing campaigns with true brand advocacy messaging. As event coordinators, we have developed and activated nearly 300 events in DCL. Our network of partners enables us to develop and launch multi-tiered metaverse activations, from concept design and strategy to marketing.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - PayPal
+    - Credit Card
+  pois:
+    - (27,-118)
+  tags:
+    - Wearable Design
+    - Architecture
+    - Event Production
+    - Consulting
+
+- name: DCL Curations
+  partnerId: 94
+  default_link: https://www.dclcurations.com/
+  website: https://www.dclcurations.com/
+  email: DCLCurations@gmail.com
+  linkedin: https://www.linkedin.com/in/dclcurations/
+  twitter: https://twitter.com/DCLCurations
+  youtube: https://www.youtube.com/dclcurations
+  image: /images/partners/dcl-curations.jpeg
+  description: Metaverse Consulting and Educational company focused on onboarding new companies and individuals to Decentraland and handling end-to-end project management
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - Wire Transfer
+  pois:
+    - (130,133)
+  tags:
+    - Architecture
+    - Event Production
+    - Consulting
+    - Wearable Design
+
+- name: Bverse
+  partnerId: 94
+  default_link: https://www.bverseconsulting.io/
+  website: https://www.bverseconsulting.io/
+  email: info@bverseconsulting.io
+  linkedin: https://www.linkedin.com/company/metaverse-consulting-firm/
+  twitter: https://twitter.com/bversedcl
+  youtube: https://www.youtube.com/channel/UCwSKS0Sxk-fpnLrRHfBlV5w
+  image: /images/partners/bverse.jpeg
+  description: BVERSE is a metaverse onboarding and consulting company helping individuals and companies to enter the metaverse space. We provide consulting services, commission build work, wearable consulting, event management and hosting, and streaming services.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  pois:
+    - (-29,-110)
+  tags:
+    - Architecture
+    - Event Production
+    - Consulting
+    - Wearable Design
+    
+- name: Metagellan
+  partnerId: 95
+  default_link: https://www.metagellan.com/en
+  website: https://www.metagellan.com/en
+  email: loic@colleconline.com
+  linkedin: https://www.linkedin.com/in/loïc-schappacher-5a8abb29
+  twitter: https://twitter.com/colleconline
+  instagram: https://www.instagram.com/colleconline_officiel/
+  youtube: https://www.youtube.com/c/Colleconline-Collectors-Website
+  discord: https://discord.gg/uaJJd6aYbp
+  image: /images/partners/metagellan.jpeg
+  description: BUILDING TOGETHER YOUR PROJECT IN THE METAVERSE
+  region: Europe
+  location: France
+  languages:
+    - English
+    - France
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - Credit Card
+    - PayPal
+  pois:
+    - (-38;-103) 
+  tags:
+    - Architecture
+    - Event Production
+    - Wearables
+    - Consulting
+    - Wearable Design
+
+- name: GucciToe
+  partnerId: 96
+  default_link: https://djguccitoe.xyz/
+  website: https://djguccitoe.xyz/
+  email: therealguccitoe@gmail.com
+  linkedin: https://www.linkedin.com/in/daniel-christenbury-27692528/
+  twitter: https://twitter.com/Defector_Dan
+  opensea: https://opensea.io/collection/under-tones
+  youtube: https://www.youtube.com/channel/UCYbN3rNcIp2TX8tFUjRqkEQ
+  discord: https://discordapp.com/users/158751850173169665 
+  image: /images/partners/guccitoe.PNG
+  description: GucciToe is a veteran DJ with experience in multiple genres. Also, an expert in planning and hosting metaverse events, GucciToe excels in executing clients' visions and curating top-notch experiences.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  pois: 
+  tags:
+    - Event Production
+
+- name: Bitgem
+  partnerId: 97
+  default_link: https://www.bitgem3d.com
+  website: https://www.bitgem3d.com/
+  email: support@bitgem3d.com
+  twitter: https://twitter.com/BitGem3d
+  sketchfab: https://sketchfab.com/bitgem
+  youtube: https://www.youtube.com/c/Bitgem
+  discord: https://discord.gg/PHBpHrQUkC
+  image: /images/partners/bitgem.png
+  description: Bitgem is a boutique 3D CGI studio working first and foremost on building a high-quality, style consistent low poly 3d models and texture for the gaming and entertainment industry.
+  region: Europe
+  location: Germany
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  pois: 
+    - (-89,69)
+  tags:
+    - Architecture
